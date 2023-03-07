@@ -1,0 +1,159 @@
+- Notion du programme : langage
+- Auteur:Descartes
+- Idée :Le langage est le signe de la pensée
+---
+- Notion du programme : langage
+- Auteur:Hegel
+- Idée :Le langage conditionne la pensée
+---
+- Notion du programme : langage
+- Auteur:Klemperer
+- Idée :Si le langage conditionne la pensée, c’est d’abord dans la mesure où le langage implique certains usages, certaines formules légitimées par leur circulation sociale. Si une façon de parler s’impose, c’est une certaine façon de penser qui s’impose avec elle. Klemperer étudie en particulier le cas de la langue du IIIe Reich.
+---
+- Notion du programme : langage
+- Auteur:Bergson
+- Idée :Les mots sont des étiquettes grossières qui nous masquent la réalité
+---
+- Notion du programme : langage
+- Auteur:Mallarmé
+- Idée :Il faut distinguer deux usages du langage : le premier est utilitaire, le mot rend possible notre coexistence avec les autres. Le second est essentiel, et c’est cet usage qu’on retrouve dans la poésie : le mot est une idéalisation de son objet, par laquelle peut surgir la beauté purifiée de toutes les caractéristiques concrètes indésirables.
+---
+- Notion du programme : langage
+- Auteur:Montaigne
+- Idée :La communication n est pas le propre de l homme. La communication animale est universelle et naturelle. Les humains eux-mêmes peuvent avoir toutes sortes d échanges sans recourir au langage verbal, qui n est qu un type particulier de langage, nécessitant pour sa part une éducation.
+---
+- Notion du programme : langage
+- Auteur:Descartes
+- Idée :Un véritable langage doit témoigner de la pensée. La communication animale, qu elle soit naturelle ou résultat d un dressage, n est pas vraiment un langage, car elle n exprime que des états du corps et des passions, et non un rapport réfléchi de la pensée à elle-même. Si les animaux ne parlent pas, c est que, n ayant pas d âme, ils ne pensent pas.
+---
+- Notion du programme : langage
+- Auteur:Leroi-Gourhan
+- Idée :Langage et technique vont de pair. Créer et utiliser des symboles, créer et utiliser des outils, cela repose sur une seule et même aptitude, acquise par l espèce humaine du fait de son développement cérébral. Ce lien entre langage et technique permet de mesurer la proximité et surtout la distance de l homme avec les autres primates, et des primates avec d autres animaux.
+---
+- Notion du programme : langage
+- Auteur:Popper
+- Idée :Des fonctions supérieures font le langage humain. Les hommes ne font pas que communiquer, ils échangent des connaissances et des arguments. Ce sont ces fonctions supérieures qui font la spécificité du langage humain et nous ouvrent le monde de la culture, distinct de ceux de la nature et du sentiment.
+---
+- Notion du programme : langage
+- Auteur:Saussure
+- Idée :Le signe unit arbitrairement deux éléments psychiques. La langue n est pas liaison directe entre les mots et les choses. Elle consiste en signes, chaque signe unissant un concept abstrait (le signifié) et une sensation acoustique (le signifiant). Le signe n est pas imposé par la nature des choses ; il est arbitraire, institué par une convention différente selon les cultures.
+---
+- Notion du programme : langage
+- Auteur:Occam
+- Idée :Les langues ne renvoient aux choses que par l intermédiaire d un langage mental. Les termes écrits et parlés d une langue ne font que symboliser par convention les termes d un langage mental universel, langage de la pensée dont les concepts sont signes naturels des choses. Il est inutile d accorder à ces concepts, aux idées générales, d autre existence que mentale : seules les choses singulières existent en dehors de l esprit.
+---
+- Notion du programme : langage
+- Auteur:Rousseau
+- Idée :Le nom commun, à l origine du concept. À l origine des langues, il est peu probable que les noms aient été associés à des concepts déjà prêts dans l esprit humain. On doit supposer que les premiers noms ont été des noms propres, et que c est l usage du langage qui a permis la formation des idées générales.
+---
+- Notion du programme : langage
+- Auteur:Locke
+- Idée :La parole extériorise la pensée. Seuls les mots permettent à l homme d exprimer ses pensées hors de son for intérieur. La pensée du locuteur précède donc nécessairement sa parole, qui ne renvoie directement à rien d autre qu aux idées qu il souhaite communiquer publiquement.
+---
+- Notion du programme : langage
+- Auteur:Condillac
+- Idée :La pensée naît de l échange langagier. Seuls les signes arbitraires permettent de développer la pensée. De tels signes ne peuvent être employés que lorsque l homme a compris ce que c est qu un signe, par l usage des signes accidentels et naturels dans la communication sociale. La pensée ne peut donc précéder le langage.
+---
+- Notion du programme : langage
+- Auteur:Hegel
+- Idée :C est dans le mot que nous pensons. Seul le mot donne à la pensée une existence effective, en unissant intériorité et extériorité. Ce que l on ne peut exprimer n est pas, ou pas encore, une pensée.
+---
+- Notion du programme : langage
+- Auteur:Platon
+- Idée :Un mythe égyptien fait de Theuth l’inventeur du nombre, du calcul, de la géométrie et, surtout, de l’écriture : de la science et de la mémoire le remède a été trouvé , lui fait dire Platon dans le Phèdre. Mais Ammon, roi solaire et père des dieux, n’approuve pas cette invention. Le mythe de Theuth permet d’interroger les effets de l’invention de l’écriture sur les savoirs et les âmes.
+---
+- Notion du programme : langage
+- Auteur:Wittgenstein
+- Idée :Le langage ne saurait exprimer une pure intériorité. Le fait que tout le monde parle de son expérience privée ne garantit en rien qu on parle de la même chose, ni même qu on parle de quelque chose.
+---
+- Notion du programme : langage
+- Auteur:Aristote
+- Idée :Dans la Rhétorique, Aristote distingue trois modes de persuasion : par le vrai et la démonstration (logos), par l’excellence du caractère du locuteur (ethos) et par l’éveil des passions de l’auditeur (pathos). Aristote traite des aspects de la persuasion par les passions : celui de la puissance de la voix, de l’intonation et du geste, les trois composantes de l’action oratoire.
+---
+- Notion du programme : langage
+- Auteur:Wittgenstein
+- Idée :Les jeux de langage : le sens, c est l usage. Si penser n est rien d autre qu utiliser les signes du langage, les signes eux-mêmes trouvent leur sens dans leur usage. Mais pour chaque mot, pour chaque situation, il y a un jeu différent à jouer. Loin d être un tout uniforme, notre langage quotidien serait une famille de jeux de langage plus ou moins complexes. Les plus simples valent d être examinés, ils nous libèrent d anciens préjugés sur le langage et la pensée.
+---
+- Notion du programme : langage
+- Auteur:Occam
+- Idée :Si la structure de la Somme de logique reproduit celle de l’Organon d’Aristote, Occam ne se contente pas de répéter la pensée du Philosophe . Ainsi propose-t-il une nouvelle conception des relations entre les mots, les concepts et les choses.
+---
+- Notion du programme : langage
+- Auteur:Merleau-Ponty
+- Idée :La pensée n existe pas en dehors des mots. Ce qui est intérieur et préexiste au langage, ce n est pas la pensée, c est encore le langage. Chaque nouvelle expression combine de façon originale le matériau linguistique dont nous sommes tissés. La pensée est ainsi le sens, le mouvement de la parole, et non son intention préalable. Le langage est lui-même un être, et non un moyen de communication.
+---
+- Notion du programme : langage
+- Auteur:Leibniz
+- Idée :Leibniz porte au signe, dans toute son oeuvre, un intérêt spéculatif et pratique : la perspective d’une combinatoire de signes pourrait constituer une économie de pensée qui en développerait la puissance. Dans quelle mesure est-il possible de perfectionner les opérations intellectuelles en prêtant attention aux signes, à leur fonction et à leur nature ?
+---
+- Notion du programme : langage
+- Auteur:Berkeley
+- Idée :Le langage ne sert pas seulement à nous communiquer des idées à propos des choses. Il peut également servir à nous manipuler dès lors que nous sommes habitués à réagir à ses mots, même quand ils ne renvoient à rien de précis ni de réel. Le même mécanisme est à l oeuvre dans l argument d autorité.
+---
+- Notion du programme : langage
+- Auteur:Berkeley
+- Idée :Berkeley discute la thèse selon laquelle la faculté de former des idées abstraites, exprimées par des mots généraux, serait la propriété distinctive de l’intelligence humaine. Les idées abstraites étant difficiles à concevoir – comme l’idée de la couleur, à laquelle n’est attachée aucune couleur particulière –, est-il possible d’analyser la signification des mots généraux sans postuler l’existence de telles idées ?
+---
+- Notion du programme : langage
+- Auteur:Bergson
+- Idée :Les étiquettes du langage masquent la réalité. Dans son usage utilitaire, intéressé, le langage commun, prosaïque, laisse échapper ce que les choses, aussi bien que nos sentiments, ont d unique, de singulier.
+---
+- Notion du programme : langage
+- Auteur:Condillac
+- Idée :Critiquant une tradition cartésienne qui attribue à l’être humain des idées innées, Condillac propose une démarche génétique qui vise à éclairer les modalités de formation de nos connaissances. Dans cette perspective, le langage est autant un instrument qu’un obstacle, dont il convient de mesurer l’importance.
+---
+- Notion du programme : langage
+- Auteur:Cournot
+- Idée :Une langue ne peut refléter parfaitement la diversité du monde et des sentiments. Mais l art de l écrivain, comme l expressivité du langage oral, compense ce défaut. Ainsi la langue parfaite existe, c est celle que l on parle
+---
+- Notion du programme : langage
+- Auteur:Mill
+- Idée : Les noms sont- ils, à proprement parler, les noms des choses ou les noms des idées que nous avons des choses ? : telle est la question qui commande le début du Système de logique. Il est en effet indispensable de connaître la valeur des mots pour connaître la valeur des propositions, et celle des propositions pour connaître la valeur des arguments et des raisonnements. C’est dans ce contexte que Mill distingue la dénotation des noms, leur sens littéral, de leur signification.
+---
+- Notion du programme : langage
+- Auteur:Bacon
+- Idée :Nous devons rester maîtres des mots. Le langage ordinaire, fixé au fil des siècles par la culture et les échanges, est marqué en profondeur par les erreurs du passé ; il oppose donc au progrès du savoir une extraordinaire résistance. Pour la surmonter, nous devons pouvoir réformer la langue de façon volontariste.
+---
+- Notion du programme : langage
+- Auteur:Cournot
+- Idée :L’oeuvre de Cournot constitue une réflexion critique sur les outils de la connaissance scientifique et la manière dont la science ordonne ses connaissances. Le langage ne serait- il pas, par nature, cause d’une inadéquation de la pensée à son objet ?
+---
+- Notion du programme : langage
+- Auteur:Nietzsche
+- Idée :La vérité s’énonce, ce qui implique un rapport nécessaire de la vérité au langage. Mais le langage et les mots sont- ils des matériaux adaptés pour l’homme de la vérité, le chercheur, le philosophe ?
+---
+- Notion du programme : langage
+- Auteur:Bergson
+- Idée :Dès l’Essai sur les données immédiates de la conscience, Bergson soutient que la pensée demeure incommensurable avec le langage dans la mesure où le langage, général, ne saurait décrire la vie de la conscience, toujours singulière. Dans Le Rire, Bergson prolonge cette analyse en dérivant la généralité du langage des caractéristiques de la vie pratique, de la manière dont nous agissons au quotidien et en société, indifférents à la texture singulière des choses.
+---
+- Notion du programme : langage
+- Auteur:Freud
+- Idée :Dans Métapsychologie, Freud compare l’inconscient à une écriture hiéroglyphique, faite d’images et de symboles énigmatiques, qu’il s’agit, pour l’analyste, de traduire en langage clair. Mais le modèle de la traduction, avertit Freud dans L’Interprétation du rêve, trouve ses limites dans la mesure où le symbole n’est qu’une présentation indirecte du contenu qu’il transmet.
+---
+- Notion du programme : langage
+- Auteur:Merleau-Ponty
+- Idée :Objet d’étude privilégié des sciences du langage, la notion d’expression pose problème. Merleau- Ponty en propose une analyse, qui renvoie au lien problématique entre la parole et la pensée : la langue que je parle n’est- elle pas simultanément comprise par tous, et pourtant inventive, y compris pour moi, en chacune de ses occurrences ?
+---
+- Notion du programme : langage
+- Auteur:Zambrano
+- Idée :L’oeuvre de María Zambrano est traversée par une attention à la raison poétique , la capacité qu’a le langage poétique de nous rapprocher d’un rapport créateur au monde. Remontant à l’origine de la culture, la philosophe dégage les caractéristiques d’un langage rythmé et puissant, qui se distingue du bavardage moderne.
+---
+- Notion du programme : langage
+- Auteur:Benveniste
+- Idée :L’oeuvre de Benveniste a posé des jalons essentiels dans la constitution des sciences du langage, en reformulant et en proposant des solutions à des difficultés identifiées de façon ancienne. Pour la relation du langage à la réalité, Benveniste postule une primauté de la parole sur le réel.
+---
+- Notion du programme : langage
+- Auteur:Foucault
+- Idée :L’Ordre du discours est la leçon inaugurale de Foucault au Collège de France. Il y énonce l’hypothèse qui animera ses recherches et ses cours. En l’occurrence, il se propose d’identifier les procédures de contrôle et de restriction par lesquelles une société limite ce qui est dicible.
+---
+- Notion du programme : langage
+- Auteur:Lévi-Strauss
+- Idée :Dans les quatre volumes des Mythologiques, puis dans La Potière jalouse, Lévi-Strauss réfléchit à la signification des mythes, tout en interrogeant la nature de la signification : est-elle interne au mythe ou au mot, ou est-elle relative à la situation du mythe ou du mot au sein du système dans lequel il s’inscrit ?
+---
+- Notion du programme : langage
+- Auteur:Ricoeur
+- Idée :On oppose spontanément le dire et le faire, le discours et l’action. Ricoeur entend montrer ici les limites de cette opposition en distinguant le discours de la langue et du langage.
+---
+- Notion du programme : langage
+- Auteur:Ricoeur
+- Idée :Ricoeur a consacré une grande partie de son oeuvre à une réflexion sur la notion de texte : de l’interprétation des symboles bibliques à l’analyse de la métaphore et de la structure du récit, le philosophe donne une importance décisive au texte comme manière de structurer notre monde. Dans ce passage, il s’appuie sur l’expérience de la lecture afin de mettre en évidence la spécificité du texte écrit.

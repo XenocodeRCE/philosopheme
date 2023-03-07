@@ -15,6 +15,17 @@ Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et s
 ```
 
 # 📝 Générer des mini-fiches automatiquement via l'API
-(prompt : ` 1) Développez et argumentez en faveur de l'idée de l'auteur. 2) Expliquez de façon ludique, pédagogique et schématique. 3) Trouvez un exemple concret, historique ou scientifique, qui illustre le problème. Réponses :` )
+→ prompt =
+`1) Développez et argumentez en faveur de l'idée de l'auteur. 2) Expliquez de façon ludique, pédagogique et schématique. 3) Trouvez un exemple concret, historique ou scientifique, qui illustre le problème. Réponses :`
 
 → https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerFiche.php
+
+
+# 💡 Idées :
+- Générer des QCM
+- Générer des exercices :
+  - d'argumetation
+  - d'histoire de la phlo
+  - de texte à trous
+  - de formalisation en logique
+  - d'analyse des présupposés

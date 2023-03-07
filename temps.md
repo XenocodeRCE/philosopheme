@@ -1,0 +1,143 @@
+- Notion du programme : temps
+- Auteur:Augustin
+- Idée :Rien ne semble plus évident que l existence du temps. Et pourtant, pouvons-nous concevoir clairement ce qu il est ? Ne nous échappe-t-il pas à chaque fois que nous cherchons à le comprendre ? Seul le présent existe
+---
+- Notion du programme : temps
+- Auteur:Kant
+- Idée :Le temps n existe pas en soi, mais en nous. Le temps n existe pas au même titre que les choses perceptibles ou les phénomènes ; il n est d ailleurs ni une chose ni un phénomène, mais une condition nécessaire de leur appréhension.
+---
+- Notion du programme : temps
+- Auteur:Newton
+- Idée :Dans les Principes mathématiques de la philosophie naturelle, Newton offre ses définitions du temps et de l espace, distinguant temps et espace absolu et temps et espaces relatifs. Cette distinction permet de définir le cadre spatio-temporel de la physique classique, cadre remis en cause au XXe siècle avec la découverte de la relativité restreinte.
+---
+- Notion du programme : temps
+- Auteur:Hawking
+- Idée :La théorie de la relativité établie par Einstein au début du XXe siècle affirme qu il n existe aucun système de référence universel par rapport auquel on puisse mesurer un mouvement et que le temps est relatif à la position des observateurs. Alors que la physique classique pense le temps comme un invariant, la science actuelle l envisage comme un devenir ouvert et irréversible.
+---
+- Notion du programme : temps
+- Auteur:Locke
+- Idée :Notre existence peut être appelée durée. Dans l Essai sur l entendement humain, Locke cherche à montrer que le temps n est pas une notion mystérieuse. Notre idée de la durée est tirée de la réflexion que nous faisons sur la succession de nos propres idées.
+---
+- Notion du programme : temps
+- Auteur:Bergson
+- Idée :La durée est le temps vécu par la conscience. La durée est, selon Bergson, une dimension de la conscience irréductible à toute mesure quantitative et à toute forme de spatialisation.
+---
+- Notion du programme : temps
+- Auteur:Bachelard
+- Idée :Pour Bachelard, le temps de la conscience est une succession d instants mémorables.
+---
+- Notion du programme : temps
+- Auteur:Montaigne
+- Idée :Dans le dernier livre des Essais, Montaigne s emploie à réfléchir au temps qui passe et au temps qu il lui reste à vivre. Il se demande s il est bien raisonnable de le laisser passer . Passer le temps c est le perdre.
+---
+- Notion du programme : temps
+- Auteur:Pascal
+- Idée :Il est difficile de vivre au présent. Pascal fait un constat paradoxal : nous avons du mal à vivre au présent. Il essaie ici de comprendre pourquoi nous avons souvent tendance à nous réfugier dans le passé ou l avenir.
+---
+- Notion du programme : temps
+- Auteur:Épicure
+- Idée :La mort n est rien pour nous. Si notre vie ne dure qu un temps, il ne faut toutefois pas avoir peur de la mort.
+---
+- Notion du programme : temps
+- Auteur:Rosa
+- Idée :La vie moderne subit une accélération inédite dont l effet est un changement radical dans notre rapport au temps social, et surtout au présent.
+---
+- Notion du programme : temps
+- Auteur:Pascal
+- Idée :Le temps s inscrit dans le sens du progrè. Contrairement au temps de la nature qui semble correspondre à un éternel retour à l identique, le temps humain manifeste un progrès qui est celui de connaissance.
+---
+- Notion du programme : temps
+- Auteur:Leibniz
+- Idée :À observer le cours général de l histoire, il semble parfois difficile d y trouver un ordre, une logique et davantage encore un sens, tant les guerres sont nombreuses et les catastrophes fréquentes. Pour autant, ces désastres, tant physiques que moraux, sont-ils incompatibles avec toute forme de progrès ?
+---
+- Notion du programme : temps
+- Auteur:Lévi-Strauss
+- Idée :Il est faux de dire que certaines civilisations sont moins avancées que d autres.
+---
+- Notion du programme : temps
+- Auteur:Platon
+- Idée :Timée, en un long discours exposé à la demande de Socrate, cherche à expliciter comment « le devenir, c’est-à-dire notre univers », a été constitué et « pour quelle raison » (Timée, 29e). Dès lors, comment ne pas chercher, ne serait-ce que sur un mode mythique, à qualifier la nature du temps ?
+---
+- Notion du programme : temps
+- Auteur:Aristote
+- Idée :Le temps n’est pas le mouvement, puisque le mouvement peut être lent ou rapide, alors que le temps ne peut, semble-t-il, sans se contredire, comporter lui-même de vitesse. Mais le temps a quelque chose du mouvement, puisque l’existence même du temps ne va pas sans celle du mouvement. C’est cette primauté du mouvement sur le temps qu’Aristote discute au quatrième livre de la Physique.
+---
+- Notion du programme : temps
+- Auteur:Lucrèce
+- Idée :Dans quelle mesure le temps est-il le « milieu » dans lequel les événements se produisent ? Se référant à différents événements de la guerre entre Grecs et Troyens, chantée par Homère dans L’Iliade, Lucrèce soutient qu’il faut prendre garde à ne pas donner au temps une existence propre.
+---
+- Notion du programme : temps
+- Auteur:Sénèque
+- Idée :« La vie des hommes occupés est extrêmement courte », affirme Sénèque dans La Brièveté de la vie. Alors que le sage vit dans l’otium (le loisir) et sait se détacher du présent qui fuit, l’insensé, tourmenté par ce même présent, ne laisse-t-il pas échapper le temps qu’il veut saisir ?
+---
+- Notion du programme : temps
+- Auteur:Augustin
+- Idée :S’il est difficile de définir le temps, n’est-ce pas parce que nous ne savons pas vraiment ce qu’il est, alors même que nous croyons le connaître de façon intime ? Comment dire ce qu’est ce présent, qui paraît se réduire à la conversion de ce qui n’est pas en ce qui n’est plus ?
+---
+- Notion du programme : temps
+- Auteur:Augustin
+- Idée :Les commentateurs d’Aristote, à partir du livre IV de la Physique, avaient élaboré une compréhension cosmologique du temps comme « nombre du mouvement ». Une telle conception du temps suffit-elle à épuiser son essence ? Dialoguant de façon critique avec cette tradition, Augustin propose une définition alternative du temps.
+---
+- Notion du programme : temps
+- Auteur:Machiavel
+- Idée :Dans les Discours sur la première décade de Tite-Live, Machiavel s’étonne que les exemples du passé soient « plutôt admirés qu’imités » : alors que l’Antiquité fait l’objet d’un éloge presque unanime, peu nombreux sont ceux qui cherchent à en tirer profit pour un présent qu’ils méprisent souvent.
+---
+- Notion du programme : temps
+- Auteur:Pascal
+- Idée :Les Pensées de Pascal proposent une analyse du « divertissement ». Il ne faut pas entendre là un amusement occasionnel, mais la tendance constante des hommes à se détourner de la réalité présente. Cette nécessité de diversion ne nous conduit elle pas à errer dans des temps « qui ne sont point nôtres » ?
+---
+- Notion du programme : temps
+- Auteur:Kant
+- Idée :Le quatrième paragraphe de la Critique de la raison pure est une « exposition métaphysique du concept de temps ». Au deuxième paragraphe, Kant avait explicité sa démarche : « J’entends par exposition la représentation claire (quoique non détaillée) de ce qui appartient à un concept ».
+---
+- Notion du programme : temps
+- Auteur:Kierkegaard
+- Idée :Dans le Post-scriptum définitif et non philosophique aux Miettes philosophiques, Kierkegaard critique une manière « abstraite » d’interroger l’existence, qui en dépouillerait notamment le caractère temporel. Il soulève ainsi le paradoxe d’une pensée qui ne s’interroge pas sur ses propres conditions temporelles d’existence.
+---
+- Notion du programme : temps
+- Auteur:Husserl
+- Idée :Les "Leçons pour une phénoménologie de la conscience intime du temps" proposent une description minutieuse de notre expérience de la temporalité. Si les phénomènes nous apparaissent dans le temps, comment la temporalité de notre expérience se constitue-t-elle ?
+---
+- Notion du programme : temps
+- Auteur:Bergson
+- Idée :Le premier chapitre de "L’Évolution créatrice" analyse « l’évolution de la vie », en discutant les concepts de mécanisme et de finalité. Dans ce cadre, Bergson soutient que « quant à la vie psychologique, telle qu’elle se déroule sous les symboles qui la recouvrent, on s’aperçoit sans peine que le temps en est l’étoffe même ».
+---
+- Notion du programme : temps
+- Auteur:Russell
+- Idée :L’analyse peut découvrir des différences logiques importantes là où un seul fait est apparent. C’est ainsi que Russell, en distinguant deux sortes de souvenir, précise les rapports qu’il y a entre la mémoire des expériences passées et la question de l’identité personnelle dans le temps.
+---
+- Notion du programme : temps
+- Auteur:Bergson
+- Idée :Au début de La Pensée et le Mouvant, Bergson procède à une brève récapitulation de son itinéraire philosophique. Il rappelle la distinction entre la durée – temps de la conscience – et le temps spatial qu’étudie la science. Leur différence n’est-elle pas celle qui sépare un temps mouvant et un temps immobile ?
+---
+- Notion du programme : temps
+- Auteur:Merleau-Ponty
+- Idée :Merleau-Ponty considère que la métaphore qui rapproche le temps d’une rivière est « en réalité très confuse », car elle fait comme si le temps existait indépendamment d’un sujet qui le considère. Or, si cette métaphore garde un sens, c’est sans doute en raison de la continuité immanente au temps. Cette continuité pourrait-elle exister sans le sujet qui se projette et se remémore ?
+---
+- Notion du programme : temps
+- Auteur:Certeau
+- Idée :Michel de Certeau, spécialiste de l’histoire de la mystique à l’époque moderne, s’interroge, dans « L’Opération historique », sur ce que fait l’historien. Pratiquer les sciences historiques, c’est nécessairement entretenir un certain rapport à la mort, mais c’est aussi ouvrir une brèche dans le présent, par la représentation de ce qui ne s’y réduit pas.
+---
+- Notion du programme : temps
+- Auteur:Ricoeur
+- Idée :C’est précisément parce qu’il a une subjectivité que l’historien peut connaître le passé
+---
+- Notion du programme : temps
+- Auteur:Marx
+- Idée :On ne saurait s’appuyer prioritairement sur les sentiments et les valeurs individuels pour expliquer l’histoire. Les éléments subjectifs ne sont eux-mêmes que les reflets des rapports économiques qui déterminent l’existence des individus.
+---
+- Notion du programme : temps
+- Auteur:Pascal
+- Idée :L’homme ne peut pas être heureux, parce qu’il ne sait pas vivre dans le présent
+---
+- Notion du programme : temps
+- Auteur:Pascal
+- Idée :La seule façon pour les hommes de connaître le bonheur véritable, c’est précisément de sortir de notre expérience commune du temps. C’est en s’unissant à Dieu par la foi que le bonheur nous devient accessible, sous la forme d’une félicité éternelle.
+---
+- Notion du programme : temps
+- Auteur:Jonas
+- Idée :Nous sommes responsables de l’avenir de l’humanité
+---
+- Notion du programme : temps
+- Auteur:Jonas
+- Idée :Les individus ne sont pas toujours prêts à limiter leurs actions présentes au nom de bienfaits futurs très hypothétiques. L’éthique de la responsabilité de Jonas, pour être politiquement possible, peut nécessiter une dictature écologique, s’appuyant sur la science et visant les intérêts profonds de l’humanité.

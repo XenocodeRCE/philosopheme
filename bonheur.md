@@ -1,0 +1,143 @@
+- Notion du programme : bonheur
+- Auteur:Calliclès
+- Idée :La vie heureuse est la vie déréglée
+---
+- Notion du programme : bonheur
+- Auteur:Platon
+- Idée :Un homme ayant une vie déréglée ressemblerait au tonneau percé des danaïdes : il tenterait sans cesse de se remplir, en vain. En fait, pour être heureux il importe plutôt de travailler sur soi pour réussir à se satisfaire de ce qu’on a.
+---
+- Notion du programme : bonheur
+- Auteur:Épicure
+- Idée :La recherche du bonheur implique la recherche de la sagesse : c’est le bon usage de notre raison qui nous rend heureux
+---
+- Notion du programme : bonheur
+- Auteur:Rousseau
+- Idée :« Malheur à celui qui n’a rien à désirer ! » Le désir est important en lui-même, c’est lui qui donne du sens et de la valeur à nos vies.
+---
+- Notion du programme : bonheur
+- Auteur:Pascal
+- Idée :Nous cherchons par tous les moyens des divertissements, pour ne pas penser à notre condition misérable
+---
+- Notion du programme : bonheur
+- Auteur:Heidegger
+- Idée :Notre finitude n’est pas quelque chose qui rend l’existence absurde. Au contraire, c’est le fait de se projeter vers notre mort qui nous permet d’avoir un rapport authentique à notre existence et qui lui donne son sens. C’est cette distinction entre l’authenticité et l’inauthenticité qui est décisive, non celle entre la foi et l’incroyance.
+---
+- Notion du programme : bonheur
+- Auteur:Zhuangzi
+- Idée :Le malheur de l’homme vient souvent de la tension excessive de sa volonté, qui peut l’empêcher d’obtenir la fin voulue.
+---
+- Notion du programme : bonheur
+- Auteur:Épicure
+- Idée :Trier ses désirs permet d'être heureux.
+---
+- Notion du programme : bonheur
+- Auteur:Lucrèce
+- Idée :Le malheur naît d’un espoir vain de posséder, et non pas du plaisir charnel en tant que tel.
+---
+- Notion du programme : bonheur
+- Auteur:Épictète
+- Idée :Le sage doit à la fois être indifférent aux biens extérieurs et ne pas être impassible à la manière d’une statue.
+---
+- Notion du programme : bonheur
+- Auteur:Bruno
+- Idée :Un bonheur sans tourment et sans douleur, limité à la satisfaction immédiate, n'existe pas.
+---
+- Notion du programme : bonheur
+- Auteur:Descartes
+- Idée :Même si je m'écarte de toute morale, quand j'agis je postule une morale provisoire.
+---
+- Notion du programme : bonheur
+- Auteur:Hobbes
+- Idée :Le désir est l'inquiétude d’acquérir puissance après puissance.
+---
+- Notion du programme : bonheur
+- Auteur:Spinoza
+- Idée :Il ne faut pas condamner absolument tout usages des plaisirs.
+---
+- Notion du programme : bonheur
+- Auteur:Diderot
+- Idée :La passion est l'heureuse expression de soi.
+---
+- Notion du programme : bonheur
+- Auteur:Épicure
+- Idée :Une vie dirigée par la recherche du plaisir est-elle nécessairement une vie déréglée ? Non, répond l épicurisme, mais à condition de distinguer les différentes sortes de désirs.
+---
+- Notion du programme : bonheur
+- Auteur:Rousseau
+- Idée :L’éducation donnée par les hommes est contraire à celle prodiguée par la nature.
+---
+- Notion du programme : bonheur
+- Auteur:Bentham
+- Idée :L utilitarisme, dont Bentham fut le fondateur, est une doctrine qui définit l action bonne comme celle dont les conséquences maximisent le bien-être collectif. La morale n y est plus dissociable de la politique. Dans ce texte, Bentham définit le principe d utilité .
+---
+- Notion du programme : bonheur
+- Auteur:Bentham
+- Idée :Tous les actes qui sont à juste titre objets de l’éthique ne relèvent pas toujours de la législation.
+---
+- Notion du programme : bonheur
+- Auteur:Mill
+- Idée :Le bonheur est-il la même chose que la satisfaction des désirs ? N existe-t-il pas un état de bonheur supérieur qui suppose au contraire une certaine forme d insatisfaction ? Mieux vaut être Socrate insatisfait qu un imbécile satisfait.
+---
+- Notion du programme : bonheur
+- Auteur:Schopenhauer
+- Idée :Si les tourments de la volonté nous condamnent au malheur, tout bonheur est impossible
+---
+- Notion du programme : bonheur
+- Auteur:Scheler
+- Idée :L accroissement du bonheur par la maximisation des plaisirs, promis par les utilitaristes, est une entreprise vouée à l échec, selon Max Scheler ; elle relève en effet d une conception superficielle du bonheur (réduite à sa mesure sensorielle), qui ignore les couches les plus profondes de la personne, où se joue pourtant la véritable béatitude.
+---
+- Notion du programme : bonheur
+- Auteur:Mill
+- Idée :Si l’expérience est un guide fiable pour se repérer dans les plaisirs, l’estimation de leur valeur respective est nécessairement collégiale.
+---
+- Notion du programme : bonheur
+- Auteur:Malebranche
+- Idée :Nous n aimons pas tant notre être que notre bien-être. Nous ne pouvons pas ne pas vouloir être heureux. Selon Malebranche, ce désir de bonheur est logé si profondément en nous que nous y sommes plus attachés encore qu à notre propre existence.
+---
+- Notion du programme : bonheur
+- Auteur:Nietzsche
+- Idée :Un degré d’oubli est nécessaire à la vie et au bonheur.
+---
+- Notion du programme : bonheur
+- Auteur:Platon
+- Idée :Dans Le Banquet, Platon prête au comique Aristophane un mythe expliquant que la quête inlassable d amour chez les hommes vient d une séparation originelle : l amour serait alors la guérison de la nature humaine.
+---
+- Notion du programme : bonheur
+- Auteur:Freud
+- Idée :La vie psychique inconsciente est dominée par la recherche du plaisir.
+---
+- Notion du programme : bonheur
+- Auteur:Aristote
+- Idée :Le bonheur est indissociable d une perspective d accomplissement ou de réalisation de soi. Mais encore faut-il se demander ce qu est l homme et quelle est sa tâche en cette vie. L homme peut passer à côté du bonheur s il renonce à accomplir la tâche pour laquelle il est fait, par excellence, à savoir de mener une vie conforme à la raison.
+---
+- Notion du programme : bonheur
+- Auteur:Russell
+- Idée :Une des sources de la misère morale, de la fatigue et de la tension nerveuse est l’incapacité de s’intéresser à tout ce qui n’est pas d’une importance pratique dans la vie.
+---
+- Notion du programme : bonheur
+- Auteur:Kant
+- Idée :Ne pas chercher à être heureux mais à se rendre digne du bonheur : Le devoir moral est désintéressé, et donne donc à l homme une fin qui ne peut être confondue avec la recherche du bonheur. Plutôt que de vouloir le bonheur à tout prix, l homme qui honore en lui la loi morale doit seulement chercher à en être digne.
+---
+- Notion du programme : bonheur
+- Auteur:Jankélévitch
+- Idée :L’existence, à l’intersection de l’aventure, de l’ennui et du sérieux, rend compte de l'exigeance du bonheur.
+---
+- Notion du programme : bonheur
+- Auteur:Pascal
+- Idée :La condition humaine est misérable et rien ne peut nous en consoler. Aussi le seul bonheur de l homme se trouve-t-il dans le divertissement, qui nous empêche au moins d y penser.
+---
+- Notion du programme : bonheur
+- Auteur:Rousseau
+- Idée :Malheur à qui n a plus rien à désirer ! Le désir est illusoire parce qu il nous fait imaginer une réalité conforme à nos passions. Soit ! dit Julie à Saint-Preux dans cet extrait du roman La Nouvelle Héloïse ; dans ce cas c est dans le plaisir de désirer plus encore que dans le plaisir de posséder que se trouve le bonheur de l homme.
+---
+- Notion du programme : bonheur
+- Auteur:Schopenhauer
+- Idée :Le bonheur est d essence négative. Le bonheur n est jamais senti positivement, en lui-même, mais toujours relativement à un désir ou une souffrance qui l a précédé, et qu il apaise temporairement.
+---
+- Notion du programme : bonheur
+- Auteur:Châtelet
+- Idée :Pour être heureux, il faut être susceptible d illusion. Et si l un des secrets du bonheur résidait dans un certain plaisir pris à l illusion ?
+---
+- Notion du programme : bonheur
+- Auteur:Rosset
+- Idée :Pour Clément Rosset, disciple de Nietzsche, plutôt que de chercher à tout prix le bonheur en fuyant le malheur, l homme doit rechercher la joie, qui est une approbation de l existence toute entière.

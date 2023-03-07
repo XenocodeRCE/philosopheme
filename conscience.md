@@ -1,0 +1,143 @@
+- Notion du programme : conscience
+- Auteur:Descartes
+- Idée :Mon existence en tant que conscience est la seule vérité absolue
+---
+- Notion du programme : conscience
+- Auteur:Nietzsche
+- Idée :Le « je pense » n’est aucunement une substance. Descartes a été pris au piège de la grammaire, qui lui a fait conclure que le « je » avait une consistance propre, absolument séparée du corps.
+---
+- Notion du programme : conscience
+- Auteur:Kant
+- Idée :C’est la conscience de soi qui fait de l’homme autre chose qu’une simple chose : une personne
+---
+- Notion du programme : conscience
+- Auteur:Bentham
+- Idée :Ce n’est pas la conscience de soi qui détermine la valeur morale d’un être, mais sa capacité à sentir – en particulier à ressentir du plaisir ou de la peine. Les animaux ne sont certes pas des personnes, mais cela ne les empêche pas d’être un objet de respect.
+---
+- Notion du programme : conscience
+- Auteur:Sartre
+- Idée :Être conscient, c’est être libre
+---
+- Notion du programme : conscience
+- Auteur:Marx
+- Idée :La liberté et la conscience ne sont pas de simples phénomènes subjectifs. Les contenus de la conscience sont déterminés par les conditions matérielles dans lesquelles vit l’individu ; la liberté, elle-même, n’est pas qu’un fait psychologique individuel, mais est l’objet d’une lutte collective d’essence politique.
+---
+- Notion du programme : conscience
+- Auteur:Plotin
+- Idée :Une conscience trop présente provoquerait l’excès de savoir et de réflexivité.
+---
+- Notion du programme : conscience
+- Auteur:Avicenne
+- Idée :L’esprit est indépendant du corps.
+---
+- Notion du programme : conscience
+- Auteur:Descartes
+- Idée :Il existe des vérités qui échappent au doute.
+---
+- Notion du programme : conscience
+- Auteur:Descartes
+- Idée :La pensée, distincte de l’imagination, est un attribut qui m’appartient , qui seule ne peut être détachée de moi.
+---
+- Notion du programme : conscience
+- Auteur:Locke
+- Idée :Si une personne est sujette à de nombreux changements physiques et psychiques au cours du temps, il semble acquis qu’elle reste une seule et même personne. Quel est donc le fondement de son identité ? Serait-ce la continuité de la conscience de soi ?
+---
+- Notion du programme : conscience
+- Auteur:Descartes
+- Idée :Descartes s appuie sur l expérience du doute radical (la supposition que tout ce au sujet de quoi nous pouvons imaginer le moindre doute est faux), pour établir l existence de sa propre pensée consciente. Le fait même de douter de tout établit cette existence : Je ne peux douter de mon existence comme être pensant.
+---
+- Notion du programme : conscience
+- Auteur:Malebranche
+- Idée :À la fin du livre III de De la recherche de la vérité, Malebranche distingue différentes manières de voir les choses , c est-à-dire de les connaître. La théorie de la vision en Dieu , dont le présupposé est théologique, implique, sur le plan philosophique, qu il serait possible de connaître de façon certaine des vérités mathématiques, physiques et morales par idées claires et distinctes. De ce genre de connaissance, Malebranche distingue ici la connaissance par conscience, ou par sentiment intérieur.
+---
+- Notion du programme : conscience
+- Auteur:Hume
+- Idée :Nous n avons aucune impression du moi. Critiquant implicitement Descartes, Hume montre que la conscience intime du moi est une fausse évidence. Quelque effort que nous fassions pour rentrer en nous-mêmes, nous ne trouvons jamais que des perceptions particulières à chaque fois différentes, nous ne rencontrons jamais le moi .
+---
+- Notion du programme : conscience
+- Auteur:Hume
+- Idée :Mettant à l’épreuve la méthode introspective, par laquelle le sujet pourrait se contempler lui-même, Hume pose les jalons d’une critique radicale de la compréhension du moi comme substance homogène. Questionnant l’idée que nous avons du moi, le philosophe se demande si cette idée correspond bien à une perception d’un moi unique et uniforme.
+---
+- Notion du programme : conscience
+- Auteur:Nietzsche
+- Idée :Dire Je Pense est une affirmation téméraire ! Loin d être une certitude immédiate, l énoncé qui dit Je Pense est lourd de présuppositions injustifiées.
+---
+- Notion du programme : conscience
+- Auteur:Smith
+- Idée :Après avoir montré l’importance morale de la capacité à reproduire, en imagination, les sentiments et la situation d’autrui – ce que l’on appelle sympathie –, Smith explique, dans la troisième partie de la Théorie des sentiments moraux, comment le sujet peut se prendre lui-même pour objet d’évaluation morale. Il recourt à la notion de spectateur impartial , véritable personnification de la conscience morale.
+---
+- Notion du programme : conscience
+- Auteur:Husserl
+- Idée :La conscience me révèle un monde. Husserl s attache à décrire le phénomène de la conscience tel que nous le vivons dans l attitude naturelle : la conscience nous rend présent un monde d êtres et d objets dont l horizon déborde du contenu de notre perception immédiate.
+---
+- Notion du programme : conscience
+- Auteur:Rousseau
+- Idée :Quelle est l’origine de l’attachement fragile des hommes au bien et à la moralité ? Rousseau, dans le livre IV de l’Émile, soutient qu’ il est donc au fond des âmes un principe inné de justice et de vertu, sur lequel, malgré nos propres maximes, nous jugeons nos actions et celles d’autrui comme bonnes ou mauvaises : la conscience.
+---
+- Notion du programme : conscience
+- Auteur:Sartre
+- Idée :La conscience n a pas de dedans . Se faisant ici le disciple de Husserl, Jean-Paul Sartre caractérise la conscience par son intentionnalité , le fait d être toujours dirigée vers un objet.
+---
+- Notion du programme : conscience
+- Auteur:Kant
+- Idée :Dans ses Remarques générales sur l’Esthétique transcendantale , Kant souligne que l’intuition ne nous fait connaître que des rapports entre des phénomènes et non la chose en soi, qui serait la chose vue indépendamment de la manière dont elle nous apparaît. Il en tire alors les conséquences en ce qui concerne l’intuition interne .
+---
+- Notion du programme : conscience
+- Auteur:James
+- Idée :William James introduit sa conception du courant de conscience . La pensée n est pas une suite discontinue d états mentaux mais un flux continu dont l écoulement est rythmé par des haltes et des envolées.
+---
+- Notion du programme : conscience
+- Auteur:Hegel
+- Idée :Le retour réflexif sur soi, l’introspection, est une façon de développer la conscience de soi. Mais il est une autre voie, dont l’importance est généralement sous- estimée : la pratique, qui suppose une relation à ce qui est hors de soi. Comment peut- on prendre conscience de soi- même par l’extériorité ?
+---
+- Notion du programme : conscience
+- Auteur:Bergson
+- Idée :La conscience est mémoire en ceci qu elle incorpore dans son présent et retient en elle-même toute la durée de l expérience passée.
+---
+- Notion du programme : conscience
+- Auteur:Comte
+- Idée :Comte s’intéresse à la constitution d’une psychologie scientifique, d’une véritable science de l’esprit humain. C’est dans ce contexte qu’il interroge les prétentions de l’esprit à donner une véritable connaissance de soi.
+---
+- Notion du programme : conscience
+- Auteur:Nagel
+- Idée :Dans le cours d un argument destiné à montrer que l expérience consciente a un caractère subjectif qui ne peut pas être ramené aux propriétés objectives du cerveau ou du comportement, Thomas Nagel explique que nous ne pouvons pas nous représenter la conscience d une chauve-souris, l effet que cela fait intérieurement de percevoir le monde comme cet animal le fait.
+---
+- Notion du programme : conscience
+- Auteur:Nietzsche
+- Idée : Toutes nos actions sont au fond incomparablement personnelles, singulières […] mais lorsque nous les traduisons en conscience, elles ne semblent plus l’être , remarque Nietzsche dans Le Gai Savoir (§ 354). Approfondissant ce paradoxe, le Solitaire de Sils-Maria remonte à l’origine d’une conscience que nous croyons souvent innée et essentielle à l’homme.
+---
+- Notion du programme : conscience
+- Auteur:Kant
+- Idée :La conscience nous élève au-dessus des bêtes. C est par sa capacité à se concevoir lui-même comme sujet de sa pensée que l homme acquiert sa dignité d homme, et devient ce que nulle bête ne peut être : une personne .
+---
+- Notion du programme : conscience
+- Auteur:Bergson
+- Idée :La conscience de soi est temporelle de part en part : réfléchissant à la notion de durée, Bergson pose la question d’une supposée menace d’hétérogénéité qui pèserait sur le moi.
+---
+- Notion du programme : conscience
+- Auteur:Pascal
+- Idée :L homme, roseau pensant : Pascal met en évidence le paradoxe de l existence humaine, entre grandeur et misère. L homme n est rien au regard de l univers des choses non-pensantes qui le déborde de toute part, et pourtant, en s élevant par la pensée à la conscience de lui-même et de sa propre misère , il se révèle porteur d une grandeur et d une dignité que rien dans la nature non-pensante ne peut égaler.
+---
+- Notion du programme : conscience
+- Auteur:James
+- Idée :James, au début du huitième chapitre des Essais d’empirisme radical, indique : je voudrais vous communiquer quelques doutes qui me sont venus au sujet de la notion de conscience qui règne dans tous nos traités de psychologie .
+---
+- Notion du programme : conscience
+- Auteur:Locke
+- Idée :Ayant défini la conscience comme le sentiment intérieur que nous avons de nos propres pensées et de nos propres actions, Locke montre que la personne , le sujet de la responsabilité morale et juridique, se définit essentiellement par la conscience. On ne peut imputer une faute à une personne que si celle-ci est capable, grâce à la conscience, de reconnaître les actes passés comme siens : ainsi la conscience nous rend responsables.
+---
+- Notion du programme : conscience
+- Auteur:Husserl
+- Idée :En 1905, constituant une phénoménologie de la conscience intime du temps, Husserl médite la métaphore – promise à une fortune certaine au xx e siècle – du flux de la conscience. Est-ce une métaphore seulement ?
+---
+- Notion du programme : conscience
+- Auteur:Rousseau
+- Idée :La conscience est notre guide moral. Rousseau donne la parole au vicaire savoyard , un ancien curé de campagne. L homme est, selon lui, doué d un instinct moral, la conscience.
+---
+- Notion du programme : conscience
+- Auteur:Sartre
+- Idée :Distinguant le mode d’être des choses et le mode d’être de la conscience, Sartre avance que le garçon de café ne peut être immédiatement garçon de café, au sens où cet encrier est encrier . Sartre développe alors une description de l’attitude et des gestes de ce garçon de café et pose le problème du jeu de la conscience.
+---
+- Notion du programme : conscience
+- Auteur:Jankélévitch
+- Idée :Depuis Cicéron dans les Tusculanes (II, 64), la métaphore du théâtre intérieur a permis de qualifier la conscience, conjointement dans ses dimensions représentative et morale. Jankélévitch reprend et discute cette tradition.

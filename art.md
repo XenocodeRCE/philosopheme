@@ -1,0 +1,151 @@
+- Notion du programme : art
+- Auteur:Platon
+- Idée :L’art est l’imitation d’une imitation
+---
+- Notion du programme : art
+- Auteur:Kant
+- Idée :L’artiste est défini par son génie, c’est-à-dire par une disposition innée et naturelle par laquelle il peut inventer de nouvelles règles
+---
+- Notion du programme : art
+- Auteur:Freud
+- Idée :L’activité créatrice de l’artiste est un moyen pour lui de sublimer ses pulsions
+---
+- Notion du programme : art
+- Auteur:Hegel
+- Idée :L’essence de l’art ne tient pas dans une reproduction du réel, puisque rien ne servirait d’avoir une reproduction si nous avons déjà l’original. Elle tient plutôt dans une objectivation de notre vie intérieure dans l’élément de l’apparence sensible, qui nous permet de prendre conscience de nous-même.
+---
+- Notion du programme : art
+- Auteur:Nietzsche
+- Idée :Le génie n’est qu’un long travail incorporé ; nous croyons au génie inné parce que cette croyance nous est utile, mais cela ne signifie pas qu’elle soit vraie
+---
+- Notion du programme : art
+- Auteur:Aristote
+- Idée :La tragédie est l’imitation d’une action achevée et complète en art.
+---
+- Notion du programme : art
+- Auteur:Plotin
+- Idée :Dans les oeuvres d’art, les dispositifs matériels constituent des moyens par lesquels un contenu spirituel – une forme – peut être exprimé.
+---
+- Notion du programme : art
+- Auteur:Alberti
+- Idée :Il y a une propriété commune à tous les objets, naturels ou artificiels : l’harmonie.
+---
+- Notion du programme : art
+- Auteur:Montaigne
+- Idée :L’inspiration est l'effet de la chance.
+---
+- Notion du programme : art
+- Auteur:Hume
+- Idée :L’habitude et la répétition façonnent nos catégories mentales et nos comportements.
+---
+- Notion du programme : art
+- Auteur:Diderot
+- Idée :L'artiste ne se limite pas à sélectionner des traits qu’il juge beaux dans la nature observée.
+---
+- Notion du programme : art
+- Auteur:Kant
+- Idée :Le goût se distingue de la connaissance et de la morale.
+---
+- Notion du programme : art
+- Auteur:Kant
+- Idée :L’art est produit par un être qui se représente l’effet qu’il va produire.
+---
+- Notion du programme : art
+- Auteur:Hegel
+- Idée :L’art n'est pas un simple divertissement ou une pure illusion.
+---
+- Notion du programme : art
+- Auteur:Schopenhauer
+- Idée :L’art est le lieu de manifestation de l'essence de la vie.
+---
+- Notion du programme : art
+- Auteur:Nietzsche
+- Idée :Nous sommes habitués, en face de toute chose parfaite, à ne pas poser le problème de sa formation.
+---
+- Notion du programme : art
+- Auteur:Nietzsche
+- Idée :L'art est le culte du non-vrai.
+---
+- Notion du programme : art
+- Auteur:Proust
+- Idée :La vraie vie, la vie enfin découverte et éclaircie, la seule vie par conséquent pleinement vécue, c’est la littérature.
+---
+- Notion du programme : art
+- Auteur:Bergson
+- Idée :Création signifie, avant tout, émotion.
+---
+- Notion du programme : art
+- Auteur:Benjamin
+- Idée :Les nouveaux modes de diffusion des oeuvres d’art fragilisent une de leurs propriétés essentielles : leur autorité, leur aura.
+---
+- Notion du programme : art
+- Auteur:Arendt
+- Idée :L'œuvre est une création qui perdure. Les œuvres d'art sont les seules choses qui paraissent échapper au pouvoir « destructeur » de la société de consommation. Elles permettent à l'homme de créer un monde culturel capable de perdurer.
+---
+- Notion du programme : art
+- Auteur:Merleau-Ponty
+- Idée :L'expérience artistique redessine la centralité du corps dans nos vies car l’oeuvre d’art s’inscrit dans un support matériel qui, lui aussi, est corps.
+---
+- Notion du programme : art
+- Auteur:Merleau-Ponty
+- Idée :Le monde naît de l’ambiguïté de la perception.
+---
+- Notion du programme : art
+- Auteur:Simondon
+- Idée :La pensée technique résulte d’un déphasage d’un mode unique, central et originel d’être au monde, le mode magique.
+---
+- Notion du programme : art
+- Auteur:Goodman
+- Idée :Un objet devient une oeuvre quand il fonctionne comme symbole. L art contemporain est parfois déconcertant. Pour mieux se repérer dans le monde de l art et appréhender ce qui le caractérise, Goodman suggère de remplacer la question qu est-ce que l art ? par celle-ci, désormais peut-être plus pertinente : quand y a-t-il art ? .
+---
+- Notion du programme : art
+- Auteur:Murdoch
+- Idée :L'art est ce qui casse l’emprise de notre propre fantaisie bornée et nous tire vers l’effort d’une vraie vision.
+---
+- Notion du programme : art
+- Auteur:Benjamin
+- Idée :Les œuvres d'art avaient autrefois un caractère unique et comportaient une dimension religieuse ou magique. Désormais, avec la possibilité technique de les reproduire, de les échanger et de les diffuser (par la photographie ou l'enregistrement sonore par exemple), les œuvres tendent à perdre leur dimension sacrée, leur « aura ».
+---
+- Notion du programme : art
+- Auteur:Goodman
+- Idée :Avant de répondre à une question, il est possible de la reformuler, de la déplacer, voire de la récuser.
+---
+- Notion du programme : art
+- Auteur:Hume
+- Idée :Pour Hume, même si le goût est subjectif, tous les jugements de goût ne se valent pas.
+---
+- Notion du programme : art
+- Auteur:Kant
+- Idée :La beauté ne se réduit pas à la satisfaction liée aux sens, toujours particulière et subjective ; dire c est beau , c est aspirer à partager avec les autres le plaisir ressenti devant une oeuvre. C est le jugement esthétique qui permet de dépasser le cadre de la sensation et d accéder à une dimension universelle.
+---
+- Notion du programme : art
+- Auteur:Kant
+- Idée :Le génie se caractérise par l acte de création. Kant s efforce de mettre au jour, par un certain nombre de critères, ce qui fait le mystère du génie artistique.
+---
+- Notion du programme : art
+- Auteur:Nietzsche
+- Idée :Pour Nietzsche, les oeuvres de génie ne sont pas le résultat d un phénomène mystérieux ou surnaturel.
+---
+- Notion du programme : art
+- Auteur:Alain
+- Idée :Alain cherche à établir ce qui distingue l artisan de l artiste. Alors que le premier se définit par son habileté à appliquer des règles déjà existantes, le deuxième se révèle dans et par son activité créatrice. Ainsi c est l oeuvre qui commande au génie.
+---
+- Notion du programme : art
+- Auteur:Hegel
+- Idée :Quel rapport l art entretient-il avec la morale ? Si Hegel admet que l art n est pas étranger à toute forme de morale, dans la mesure où il contribue à adoucir les moeurs, il met toutefois en garde contre ceux qui voudraient instrumentaliser l art pour le mettre au service d un but qui n est pas le sien.
+---
+- Notion du programme : art
+- Auteur:Bergson
+- Idée :Loin de produire des apparences trompeuses qui masquent la réalité, l artiste est celui qui parvient à faire voir ce que nous n aurions peut-être jamais vu sans lui.
+---
+- Notion du programme : art
+- Auteur:Nietzsche
+- Idée :Selon Nietzsche, l artiste a tendance à méconnaître sa véritable nature et à se mésestimer car il éprouve un sentiment d infériorité, notamment par rapport aux hommes d action qui se définissent par leur rôle efficace et utile dans la société. Par un renversement radical, Nietzsche tente ici de montrer l infinie supériorité des artistes dans le rôle qu ils peuvent avoir au sein même de la société.
+---
+- Notion du programme : art
+- Auteur:Maldiney
+- Idée :Il n existe pas de discontinuité entre la peinture abstraite et la peinture figurative. Dans les deux cas, le peintre cherche à accéder aux sources de l expérience du monde.
+---
+- Notion du programme : art
+- Auteur:Jankélévitch
+- Idée :L art peut naître quand les mots ne sont pas suffisants pour exprimer ce que l on voudrait dire. Cela ne signifie pas pour autant que l art laisserait muet et couperait court à toute forme de parole, bien au contraire.

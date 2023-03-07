@@ -1,0 +1,155 @@
+- Notion du programme : science
+- Auteur:Aristote
+- Idée :Aristote s attache à définir l objet propre de la science : non pas les faits individuels que nous percevons par la sensation, mais les propriétés universelles, qui s appliquent à tous les cas d un même genre ou d une même espèce, et permettent d en faire voir la cause. Il n y a de science que de l universel
+---
+- Notion du programme : science
+- Auteur:Comte
+- Idée :La science établit les lois des phénomènes. Il faut distinguer la science de l érudition. L objet propre de la science consiste dans l établissement de lois (c est-à-dire les relations invariables entre les phénomènes), non dans le recueil des faits et des observations.
+---
+- Notion du programme : science
+- Auteur:Jacob
+- Idée :La science décrit l évolution de systèmes organisés. François Jacob adopte une perspective large sur l objet des sciences – les sciences de la nature, qu elles soient physiques, chimiques ou biologiques, s intéressent à des organisations , plutôt qu à des faits ou des entités simples, et elles en étudient l évolution.
+---
+- Notion du programme : science
+- Auteur:Eddington
+- Idée :Les descriptions de la science présentent le monde sous un jour qui n est pas familier et qui semble même contre-intuitif. L image manifeste, sensorielle, et l image scientifique d une table sont si différentes l une de l autre qu on est enclin à penser qu elles décrivent deux objets distincts.
+---
+- Notion du programme : science
+- Auteur:Planck
+- Idée :À mesure que la science progresse, la conviction se renforce chez le savant que l image qu elle produit est celle d une réalité ultime, distincte du monde de la sensation : La science postule nécessairement la réalité absolue du monde.
+---
+- Notion du programme : science
+- Auteur:Bacon
+- Idée :Bacon montre l importance que revêt l expérience lorsqu elle est raisonnée. Il compare le travail de la science au butinage : il s agit non pas de recueillir des faits bruts, ni d élaborer des théories purement intellectuelles, mais de s approprier et transformer les contenus de l expérience en les assimilant à la raison.
+---
+- Notion du programme : science
+- Auteur:Kant
+- Idée :Dans la préface de la Critique de la raison pure, Kant tire une leçon fondamentale de l exemple des grandes découvertes scientifiques : c est seulement lorsque la raison prend les devants sur l expérience qu elle parvient à dégager les lois de la nature. La science, c est forcer la nature à répondre à nos questions.
+---
+- Notion du programme : science
+- Auteur:Bernard
+- Idée :La méthode expérimentale est faite d allers-retours entre l observation et l expérimentation. Cette dernière a une dimension théorique forte car elle s appuie sur des hypothèses, des anticipations rationnelles.
+---
+- Notion du programme : science
+- Auteur:Popper
+- Idée :Les énoncés scientifiques doivent pouvoir s exposer à la réfutation empirique. Popper cherche le critère qui permet de dire quand un énoncé portant sur des faits d expérience est un énoncé scientifique. Ce critère est la réfutabilité : le fait pour un énoncé, non pas d être réfuté par une expérience, mais de pouvoir l être.
+---
+- Notion du programme : science
+- Auteur:Duhem
+- Idée :L expérience ne prend sens que dans un cadre théorique. Nos expériences sont toujours chargées de théorie. La description qu en donnent les physiciens est une interprétation, parce qu elle utilise des concepts qui ont déjà fait l objet d une élaboration théorique.
+---
+- Notion du programme : science
+- Auteur:Renan
+- Idée :Ce n est pas seulement par ses résultats pratiques et ses applications techniques qu il faut juger de la valeur de la science, mais aussi et avant tout par sa capacité à éclairer l homme sur le monde.
+---
+- Notion du programme : science
+- Auteur:Arendt
+- Idée :La science en tant que telle se désintéresse de la dimension humaine. Ce n est donc pas comme savants mais comme citoyens que les scientifiques défendent des valeurs humanistes.
+---
+- Notion du programme : science
+- Auteur:Mill
+- Idée :Les phénomènes sociaux ne sont pas prédictibles. Les sciences sociales ne peuvent pas devenir des sciences prédictives. Bien que les phénomènes sociaux soient soumis à des lois exactes, les données et les circonstances qui influent sur le développement d une société sont trop nombreuses.
+---
+- Notion du programme : science
+- Auteur:Jaspers
+- Idée :Par sa nature même, la connaissance scientifique reste inévitablement en-deçà de certaines limites, que la pensée philosophique peut transcender. Elle laisse de côté la connaissance de l être, celle des fins de l existence humaine, et celle du sens de la science elle-même.
+---
+- Notion du programme : science
+- Auteur:Freud
+- Idée :Freud défend le caractère scientifique de la psychanalyse et son droit à prendre pour objet d étude l âme humaine. Pour cela, il rappelle que la science a vocation à décrire tous les domaines de l activité humaine.
+---
+- Notion du programme : science
+- Auteur:Platon
+- Idée :Quelle est la science la plus élevée ? Seraient-ce les mathématiques, en raison de la nécessité démontrée de leurs conclusions ? Si elles sont convoquées par Socrate, c’est pour déterminer la possibilité d’une science supérieure.
+---
+- Notion du programme : science
+- Auteur:Aristote
+- Idée :Aristote, dans les Seconds Analytiques, analyse les notions fondamentales de contradiction, de contrariété, d’implication et de modalité. Cet effort de clarification permet de dégager des critères de scientificité d’une théorie, d’un raisonnement ou d’une proposition. À quelles conditions pouvons-nous disposer d’un savoir scientifique ?
+---
+- Notion du programme : science
+- Auteur:Scot
+- Idée :Il est impossible de connaître, par l’expérience, tous les cas potentiels. Toutefois, la possibilité de la connaissance n’est pas défaite pour autant : si l’on postule l’uniformité et l’unité de la nature, ne peut-on, légitimement, tirer une proposition générale fiable des seuls cas connus ? Pour garantir cette fiabilité, il convient de saisir l’objet en sa cause.
+---
+- Notion du programme : science
+- Auteur:Descartes
+- Idée :La première règle donnée par Descartes pour la direction de l’esprit est que « le but de toutes nos études doit être de former notre esprit, pour le rendre capable de porter des jugements solides et vrais sur tout ce qui se présente à lui ». Reste que la pluralité des objets étudiés peut poser problème : ne rend-elle pas opaque l’unité finale de l’étude ?
+---
+- Notion du programme : science
+- Auteur:Malebranche
+- Idée :Dans "De la recherche de la vérité", Malebranche rend justice à la géométrie, connaissance certaine de rapports nécessaires et immuables entre des termes abstraits. Il promeut aussi l’utilité pratique et méthodique de cette science : école de l’attention, elle nous apprend à orienter notre imagination vers des idées claires et distinctes. Ceci posé, il importe de ne pas confondre les rapports entre les idéalités mathématiques et les relations naturelles entre les corps matériels.
+---
+- Notion du programme : science
+- Auteur:Châtelet
+- Idée :Dans "les Institutions de physique", la marquise du Châtelet promeut une conception de la recherche fondée sur l’observation et l’expérience. Estimant que les disciples de Descartes ont abusé de l’utilisation des hypothèses, et que ceux de Newton sont tombés dans le défaut contraire, elle essaie d’en déterminer le bon usage.
+---
+- Notion du programme : science
+- Auteur:Hume
+- Idée :L’étude des impressions que nous avons originellement senties et dont les idées sont des copies permet d’obtenir, selon Hume, « un nouveau microscope » pour les sciences morales. Or, placée sous ce microscope, l’idée de connexion nécessaire, qui fonde le projet d’une connaissance rationnelle des causes, des phénomènes et des lois qui régissent leurs rapports, se révèle problématique.
+---
+- Notion du programme : science
+- Auteur:Cournot
+- Idée :Cournot, dans la deuxième partie de son Essai, discute, au chapitre xx, « le contraste de l’histoire et de la science ». Ne faut-il pas soutenir que « la description d’un phénomène dont toutes les phases se succèdent et s’enchaînent nécessairement selon des lois que font connaître le raisonnement ou l’expérience, est du domaine de la science et non de l’histoire » ? A contrario, comment caractériser la rationalité de l’histoire ?
+---
+- Notion du programme : science
+- Auteur:Nietzsche
+- Idée :Si Nietzsche propose souvent une critique de certains idéaux scientifiques, il valorise en revanche, dans Humain, trop humain, « cette vertu d’abstention prudente » qui caractérise l’attitude de celui qui ne se rend à aucune conviction sans l’avoir patiemment mise à l’épreuve.
+---
+- Notion du programme : science
+- Auteur:Durkheim
+- Idée :Conscient des réticences que suscitent les résultats des enquêtes sociologiques, Durkheim rappelle la distance qui sépare les théories scientifiques méthodiquement constituées des opinions du sens commun. Une distance d’autant plus difficile à percevoir lorsque la science a pour objet l’homme lui-même.
+---
+- Notion du programme : science
+- Auteur:Duhem
+- Idée :Physicien français, Duhem se distingue par une épistémologie qui tient les théories scientifiques pour de stricts instruments, permettant de hiérarchiser les lois de la nature, mais sans certitude immédiate sur leur adéquation avec le réel. Faut-il, dès lors, renoncer à l’affirmation de leur vérité ?
+---
+- Notion du programme : science
+- Auteur:Wittgenstein
+- Idée :La science décrit le monde. Reste que les outils de cette description – modèles, théories, instruments mathématiques – ne doivent pas être confondus avec leur objet : une carte n’est pas un territoire. Il existe différentes manières de construire une carte pour un même territoire. De même, la science se caractérise par une pluralité de possibilités de représentations, que sa puissance analytique tend, parfois, à faire oublier.
+---
+- Notion du programme : science
+- Auteur:Bachelard
+- Idée :La pratique des sciences est une authentique culture, au sens littéral et exigeant d’une formation de l’esprit humain. Cette formation de l’esprit se fonde sur des vertus qu’elle permet de développer en retour : créativité théorique, prudence réflexive et exigence critique se combinent, au service d’une pensée qui se déleste constamment d’hypothèses inopérantes pour gagner en précision.
+---
+- Notion du programme : science
+- Auteur:Bachelard
+- Idée :Eddington (1882-1944), astrophysicien britannique, a contribué à élaborer une théorie fondamentale susceptible d’unifier la théorie quantique et la théorie de la relativité d’Einstein. Sa compréhension novatrice de l’atome permet à Bachelard de préciser la nature du lien qui existe, dans les sciences, entre les apports de l’expérience et de la raison.
+---
+- Notion du programme : science
+- Auteur:Canguilhem
+- Idée :Dans « Le Vivant et son milieu », Canguilhem montre que le rapport du vivant à son milieu ne peut être réduit à une relation de passivité, où le vivant subirait les influences du milieu : « le propre du vivant, c’est de se faire un milieu, de se composer un milieu ». Fort de cette analyse, Canguilhem peut poser la question de la relation de l’homme, en tant que sujet de la connaissance scientifique, à son milieu vital.
+---
+- Notion du programme : science
+- Auteur:Levi-Strauss
+- Idée :Dans le premier chapitre de "La Pensée sauvage", consacré à la « science du concret », Lévi- Strauss, refusant de distinguer absolument pensée rationnelle et pensée dite « primitive », soutient que les classifications des espèces opérées par les peuples dits « primitifs » supposent les mêmes opérations mentales que celles de la science moderne. Quelle est alors la différence entre pensée primitive et pensée scientifique moderne ?
+---
+- Notion du programme : science
+- Auteur:Popper
+- Idée :Si la scientificité d’une théorie se mesure à sa réfutabilité, comme le soutient Popper, le fait pour une théorie d’être irréfutable, de ne pouvoir souffrir aucune objection, peut-il encore garantir la vérité de cette théorie ?
+---
+- Notion du programme : science
+- Auteur:Kuhn
+- Idée :Le progrès des sciences n’est, d’après Kuhn, ni linéaire, ni cumulatif. À des phases de perfectionnement succèdent des crises lors desquelles les découvertes scientifiques qui, pour un temps, ont fourni à une communauté de chercheurs des problèmes types et des solutions, sont radicalement remises en question. Quels sont les événements à l’origine de ces changements de « paradigme » ?
+---
+- Notion du programme : science
+- Auteur:Hume
+- Idée :Les théories générales ne peuvent jamais être légitimées par les faits eux-mêmes
+---
+- Notion du programme : science
+- Auteur:Popper
+- Idée :Certes, mais un seul contre-exemple peut réfuter une théorie de façon définitive. C’est ainsi que procèdent les sciences : elles font tout leur possible pour falsifier les théories. Par suite, une théorie qui n’est aucunement falsifiable ne saurait être considérée comme scientifique.
+---
+- Notion du programme : science
+- Auteur:Kuhn
+- Idée :L’histoire des sciences n’est pas cumulative, mais est marquée par des ruptures révolutionnaires
+---
+- Notion du programme : science
+- Auteur:Popper
+- Idée :Le schéma de Kuhn implique qu’un cadre scientifique n’est jamais définitif, et qu’il pourra toujours être renversé par un nouveau paradigme plus puissant. Mais alors, on ne peut jamais être assuré du fait que nos théories sont vraies. Popper propose de remplacer l’idée de vérité scientifique par celle de vérisimilitude : une théorie vérisimilaire résiste robustement à la contradiction, et elle tient sa force des tentatives ratées de falsification.
+---
+- Notion du programme : science
+- Auteur:Descartes
+- Idée :Le progrès des sciences est utile au bonheur humain
+---
+- Notion du programme : science
+- Auteur:Rousseau
+- Idée :En favorisant un raffinement artificiel et superficiel, le progrès scientifique éloigne les hommes de la vertu. Ses divertissements détournent les hommes de leur véritable bien et font ainsi le jeu des tyrans. Le savoir ne saurait être une valeur en soi ; il faut lui privilégier une ignorance et une simplicité vertueuses.

@@ -1,0 +1,139 @@
+- Notion du programme : travail
+- Auteur:Aristote
+- Idée :Le travail altère les dispositions de l homme libre. Dans le cadre d une réflexion sur l éducation et la politique, Aristote compare les différents arts (métiers) pour évaluer leur valeur formatrice. Or les arts utiles peuvent, par leur côté laborieux, atrophier les dispositions corporelles et intellectuelles de l homme libre, surtout lorsqu il s agit de travailler pour d autres.
+---
+- Notion du programme : travail
+- Auteur:Marx
+- Idée :L homme se construit par le travail. Le travail transforme la nature mais, selon Marx, il transforme aussi l homme lui-même. En travaillant, l homme actualise ses dispositions, y compris celles qui lui sont propres et concernent la conscience et l esprit. C est donc par le travail que l humanité se construit.
+---
+- Notion du programme : travail
+- Auteur:Weil
+- Idée :L homme se construit par le travail. Le travail transforme la nature mais, selon Marx, il transforme aussi l homme lui-même. En travaillant, l homme actualise ses dispositions, y compris celles qui lui sont propres et concernent la conscience et l esprit. C est donc par le travail que l humanité se construit.
+---
+- Notion du programme : travail
+- Auteur:Rousseau
+- Idée :La division du travail constitue une des origines de l inégalité. Le travail, sous la forme d arts spécialisés, a eu un rôle dans la genèse de l inégalité sociale et politique en rendant les hommes dépendants et en introduisant une première différence de statuts.
+---
+- Notion du programme : travail
+- Auteur:Hegel
+- Idée :L homme s élève à une liberté nouvelle par le travail. Dans la dialectique du maître et du serviteur, Hegel examine la transformation d une première soumission en liberté positive. Par son travail, le serviteur obéit certes à son maître, mais il se constitue comme acteur en dépassant son désir immédiat. Par là, le serviteur s élève à une liberté nouvelle, celle du sujet prenant conscience de lui-même à travers ses oeuvres.
+---
+- Notion du programme : travail
+- Auteur:Marx
+- Idée :La production capitaliste transforme l ouvrier en objet. Si l homme se construit par le travail, l ouvrier, dans le contexte de l usine, se perd dans son travail. Pour Marx, l économie moderne conduit l ouvrier à s aliéner dans l acte même de production : en produisant une marchandise abstraite, qui ne lui appartient pas, l ouvrier se trouve dépossédé de sa propre réalité.
+---
+- Notion du programme : travail
+- Auteur:Weil
+- Idée :Pour être libre, un mode de production doit faire en sorte que le travailleur mette en oeuvre son intelligence en cherchant par lui-même des solutions à des problèmes.
+---
+- Notion du programme : travail
+- Auteur:Locke
+- Idée :Le travail justifie l appropriation des ressources naturelles.
+---
+- Notion du programme : travail
+- Auteur:Proudhon
+- Idée :Le travail ne justifie pas la propriété privée.
+---
+- Notion du programme : travail
+- Auteur:Kant
+- Idée :Le travail répond à d autres besoins que la survie : il constitue une occupation saine qui évite à l homme de sombrer dans l ennui.
+---
+- Notion du programme : travail
+- Auteur:Kierkegaard
+- Idée :L oisiveté est un idéal à viser.
+---
+- Notion du programme : travail
+- Auteur:Nietzsche
+- Idée :Le travail est une une manière d affaiblir l individu.
+---
+- Notion du programme : travail
+- Auteur:Krisis
+- Idée :Non seulement il est possible de ne plus travailler, mais c est la seule manière de redonner sens aux activités humaines.
+---
+- Notion du programme : travail
+- Auteur:Arendt
+- Idée :La modernité a généralisé et valorisé le travail, de sorte que ne plus travailler reviendrait à détruire le socle des sociétés actuelles.
+---
+- Notion du programme : travail
+- Auteur:Zhuangzi
+- Idée :Une anecdote de Tchouang-tseu évoque un nageur qui traverse avec aisance de dangereuses chutes d’eau : « J’ai grandi dans l’eau et je m’y suis accoutumé, voilà le naturel. Je m’y meus sans même m’en rendre compte, voilà la vie même », explique- t-il. De même, l’habitude qui mène au naturel, la familiarité avec l’objet travaillé n’assurent-elles pas l’efficacité et la virtuosité du travail ?
+---
+- Notion du programme : travail
+- Auteur:Aristote
+- Idée :Il importe de distinguer avec justesse les différentes sortes de pratiques humaines. C’est pourquoi Aristote définit l’activité productive (poiêsis) comme une pratique spécifique, sollicitant d’autres vertus intellectuelles et d’autres habiletés que la connaissance (theoria) et l’action (praxis).
+---
+- Notion du programme : travail
+- Auteur:Ficin
+- Idée :Une tradition de la Renaissance italienne insiste sur la dignité du travail (labor) et de la vie active. Si l’homme ne peut, comme Dieu, créer à partir de rien, par son travail, il « imite toutes les œuvres de la nature divine et exécute, corrige, perfectionne les ouvrages de la nature inférieure », selon Ficin. Les fabrications de l’âme humaine ne sont-elles pas les signes de la puissance presque divine de l’homme ?
+---
+- Notion du programme : travail
+- Auteur:Locke
+- Idée :Au début du cinquième chapitre du Second Traité du gouvernement, Locke explique qu’il s’efforcera de montrer « comment les hommes en viennent à acquérir une propriété sur certaines parties de ce que Dieu a donné en commun au genre humain, et cela sans aucun accord exprès de l’ensemble des copossesseurs ».
+---
+- Notion du programme : travail
+- Auteur:Diderot
+- Idée :La distinction entre arts mécaniques et arts libéraux oppose les activités dignes d’un homme libre à celles contraintes par la nécessité de satisfaire des besoins vitaux. Une telle dévaluation des activités productives et utilitaires ne tient- elle pas du préjugé ?
+---
+- Notion du programme : travail
+- Auteur:Rousseau
+- Idée :Dans la seconde partie du Discours sur l’origine et les fondements de l’inégalité parmi les hommes, Rousseau soutient que l’éloignement de l’état de nature a d’abord conduit à « un juste milieu entre l’indolence de l’état primitif et la pétulante activité de notre amour-propre », mais que « tous les progrès ultérieurs ont été en apparence autant de pas vers la perfection de l’individu, et en effet vers la décrépitude de l’espèce ».
+---
+- Notion du programme : travail
+- Auteur:Smith
+- Idée :Platon, dans La République, concevait la division du travail comme une répartition des tâches délibérément mise en œuvre par l’intelligence humaine. Smith propose d’y voir plutôt un phénomène immanent au processus de production. Quel est le principe de cette division, si ce n’est la recherche d’une manière optimale de satisfaire des besoins définis ? En quoi diviser le travail est-il avantageux ?
+---
+- Notion du programme : travail
+- Auteur:Smith
+- Idée :Selon Smith, la division du travail « n’est pas à l’origine l’effet de quelque sagesse humaine qui prévoit et veut l’opulence générale qu’elle suscite » ; elle est plutôt une conséquence « nécessaire », qui ne se fonde sur aucune bienveillance, mais sur l’intérêt particulier. Comment l’intérêt particulier en vient- il à engendrer un système qui apporte un bien général ?
+---
+- Notion du programme : travail
+- Auteur:Arendt
+- Idée :Pour les Grecs de l’Antiquité, le travail était une nécessité honteuse
+---
+- Notion du programme : travail
+- Auteur:Hegel
+- Idée :Qui travaille s’habitue, pour satisfaire ses besoins, à s’occuper d’un objet particulier. La division du travail en tâches de plus en plus simples, abstraites, ne tend-elle pas, dès lors, à isoler les individus dans leur particularité en restreignant le champ de leurs préoccupations ? Mais est- ce là son seul effet ?
+---
+- Notion du programme : travail
+- Auteur:Arendt
+- Idée :Au contraire, l’époque moderne survalorise le travail et déprécie la contemplation et l’action politique. Cela rend plus difficile la construction d’un « monde commun ».
+---
+- Notion du programme : travail
+- Auteur:Marx
+- Idée :Pour Marx, la fonction initiale du travail, lorsqu’il est « vraiment humain », est d’accomplir les caractéristiques de l’être humain, être à la fois biologique et social. Cependant, dans certaines conditions, et en particulier avec la révolution industrielle, le travail devient « aliénant ». Comment le travail peut- il donc devenir étranger à celui qui l’exécute ?
+---
+- Notion du programme : travail
+- Auteur:Hegel
+- Idée :C’est dans l’expérience du travail que nous pouvons nous approprier nos puissances de penser et d’agir
+---
+- Notion du programme : travail
+- Auteur:Marx
+- Idée :Transformant la compréhension aristotélicienne de l’homme comme « animal politique », Marx, en plaçant les mécanismes de production au centre des « différentes formes de connexion sociale », s’oppose à une conception romanesque de l’être humain qui négligerait l’importance de son inscription sociale.
+---
+- Notion du programme : travail
+- Auteur:Marx
+- Idée :Le travail industriel moderne aliène le travailleur
+---
+- Notion du programme : travail
+- Auteur:Alain
+- Idée :Alain cherche à déterminer la notion de jeu en la distinguant de deux autres types d’activité : le travail et l’art. Il parvient ainsi à dégager certaines caractéristiques propres au travail : le travail n’est il pas une activité dominée par la nécessité ?
+---
+- Notion du programme : travail
+- Auteur:Nietzsche
+- Idée :Le travail moderne abrutit le travailleur en le privant de sa liberté et de son individualité. Il l’empêche ainsi de nuire aux autres, et en ce sens constitue la meilleure des polices. C’est parce que le travail a cette fonction de contrôle social qu’il est autant encensé par nos sociétés.
+---
+- Notion du programme : travail
+- Auteur:Freud
+- Idée :Si les « déplacements » d’énergie vitale (libido) sont un « gain de plaisir », avance Freud, dans Le Malaise dans la culture, toujours est- il que cette méthode « n’est accessible qu’à peu d’hommes » et qu’« elle fait d’ordinaire défaillance lorsque le corps propre devient la source de la souffrance ». À cette occasion, dans une note de bas de page de l’ouvrage, Freud précise les relations du travail humain et de la vie de l’âme.
+---
+- Notion du programme : travail
+- Auteur:Merleau-Ponty
+- Idée :Dans le troisième chapitre de La Structure du comportement, Merleau-Ponty interroge le passage de comportements vitaux propres aux animaux aux comportements spécifiquement humains. Que nous dit le travail sur la structure des comportements humains ?
+---
+- Notion du programme : travail
+- Auteur:Weil
+- Idée :En décembre 1934, Simone Weil entre comme « manœuvre sur la machine » dans une usine. Professeure agrégée, elle s’établit pour mieux connaître la réalité du travail ouvrier. C’est dans ce contexte qu’elle analyse les ressorts de l’obéissance du travailleur.
+---
+- Notion du programme : travail
+- Auteur:Simondon
+- Idée :La tradition marxiste définit le travail aliéné comme une privation de la propriété des moyens de la production, de la maîtrise du processus de production, et de la propriété de l’objet produit. Simondon discute cette définition. L’aliénation n’estelle pas d’abord culturelle et cognitive ? Les catégories du capital et du travail ne sont-elles pas « inessentielles par rapport à l’activité technique » ?

@@ -1,0 +1,143 @@
+- Notion du programme : vérité
+- Auteur:Platon
+- Idée :La vérité n est pas l opinion de chacun.
+---
+- Notion du programme : vérité
+- Auteur:Platon
+- Idée :La vérité ne doit pas être recherchée du côté des apparences que nous offrent les objets des sens, mais du côté de leurs modèles intelligibles.
+---
+- Notion du programme : vérité
+- Auteur:Zhuangzi
+- Idée :Le vrai est naturel, et non conventionnel.
+---
+- Notion du programme : vérité
+- Auteur:Augustin
+- Idée :Contrairement à l erreur, le mensonge est une duplicité.
+---
+- Notion du programme : vérité
+- Auteur:Anscombe
+- Idée :C est en fonction de l intention présente qu un mensonge est un mensonge.
+---
+- Notion du programme : vérité
+- Auteur:Nietzsche
+- Idée :C est la vie en société qui entraîne la fixation d une vérité commune et la condamnation du mensonge, non parce qu il est mauvais, mais à cause de ses conséquences.
+---
+- Notion du programme : vérité
+- Auteur:Spinoza
+- Idée :L ensemble de notre savoir doit prendre pour modèle les mathématiques, où les théorèmes s enchaînent déductivement sur la base d affirmations initiales dont on ne peut douter.
+---
+- Notion du programme : vérité
+- Auteur:Hume
+- Idée :Pour établir des vérités de fait, il faut avoir recours à l expérience.
+---
+- Notion du programme : vérité
+- Auteur:Kant
+- Idée :Il n y a pas de critère universel de vérité.
+---
+- Notion du programme : vérité
+- Auteur:James
+- Idée :Il faut redéfinir la vérité par le succès.
+---
+- Notion du programme : vérité
+- Auteur:Diderot
+- Idée :Nous devons donner notre assentiment aux affirmations rationnellement acceptables, et à elles seules.
+---
+- Notion du programme : vérité
+- Auteur:Kant
+- Idée :Une conviction vraie doit pouvoir être partagée.
+---
+- Notion du programme : vérité
+- Auteur:Putnam
+- Idée :La vérité ne peut se réduire à l accord des esprits.
+---
+- Notion du programme : vérité
+- Auteur:Foucault
+- Idée :La vérité est un fait de culture.
+---
+- Notion du programme : vérité
+- Auteur:Bouveresse
+- Idée :On ne peut pas mettre en cause la vérité sous prétexte que tout pouvoir tend à faire passer pour vraies les croyances qui peuvent le renforcer.
+---
+- Notion du programme : vérité
+- Auteur:Platon
+- Idée :Nous sommes spontanément plongés dans une ignorance radicale qui nous empêche même de reconnaître la vérité quand nous la voyons
+---
+- Notion du programme : vérité
+- Auteur:Platon
+- Idée :Il n’y a rien de plus confortable que l’ignorance. La sortie de l’ignorance s’exerce donc toujours comme une violence ; par ses questions et son exigence constante de vérité, Socrate dérangeait les Athéniens, qui ont fini par le condamner à mort pour trouble à l’ordre social.
+---
+- Notion du programme : vérité
+- Auteur:Kant
+- Idée :Le mensonge n’est jamais acceptable, parce qu’il n’est pas universalisable sans contradiction
+---
+- Notion du programme : vérité
+- Auteur:Constant
+- Idée :Si un brigand vient frapper à ma porte parce qu’il cherche un homme que j’ai caché chez moi quelques minutes auparavant, suis-je vraiment tenu de dire la vérité ? Pour Kant, je ne peux jamais justifier moralement mon action par ses conséquences, parce que celles-ci sont toujours incertaines.
+---
+- Notion du programme : vérité
+- Auteur:Platon
+- Idée :Il arrive que l’on agisse bien sans posséder de savoir fondé rationnellement, mais en suivant une croyance qui s’avère exacte et que Socrate nomme « opinion droite ». Si le savoir et l’opinion droite saisissent tous deux la vérité, comment les différencier ?
+---
+- Notion du programme : vérité
+- Auteur:Heidegger
+- Idée :L’œuvre d’art nous donne le monde dans sa vérité
+---
+- Notion du programme : vérité
+- Auteur:Platon
+- Idée :L’Étranger, personnage principal du Sophiste, redoute d’être « devenu une sorte de parricide », c’est-à- dire d’avoir tué le père de la pensée, Parménide, qui soutenait que « seul l’être est, le non- être n’est pas ». Car qui veut comprendre le magicien, l’expert en illusion qu’est le sophiste, doit pouvoir penser la réalité du faux.
+---
+- Notion du programme : vérité
+- Auteur:Lucrèce
+- Idée :Dans le livre IV du De rerum natura (De la nature), Lucrèce, réfléchissant aux phénomènes trompeurs qui accompagnent souvent l’exercice des sens (reflets, illusions, mirages, échos, ombres, rêves, fantasmes), se demande s’il faut conclure à une tromperie irrémédiable des sens. « N’impute pas aux yeux les défauts de l’esprit », déclare le poète et disciple d’Épicure.
+---
+- Notion du programme : vérité
+- Auteur:Augustin
+- Idée :Le paragraphe 40 du dialogue intitulé "Le Maître" d’Augustin est consacré à l’enseignement de ces « choses que nous contemplons par l’esprit, c’est-à- dire par l’intellect et la raison ». La considération des choses intelligibles, à la différence des choses sensibles, est au fondement d’une critique de la prétendue puissance démonstrative des mots.
+---
+- Notion du programme : vérité
+- Auteur:Cues
+- Idée :Pour réduire l’ignorance, il faut être certain que ce qui est ignoré est proportionné à ce qui est connu. Sinon, la connaissance ne saurait progresser. Mais comment acquérir une telle certitude ? Y parvenir reviendrait à surmonter une contradiction logique insurmontable, où l’on saurait déjà ce qui reste encore à savoir. Ainsi, c’est la possibilité d’un accès absolument exact à la vérité qui est remise en cause par Nicolas de Cues dans La Docte Ignorance.
+---
+- Notion du programme : vérité
+- Auteur:Descartes
+- Idée :Mersenne, correspondant de Descartes, lui avait envoyé l’ouvrage "De veritate" (« De la vérité »), d’Herbert de Cherbury. Le remerciant pour son envoi, Descartes lui répond que définir la vérité, c’est risquer d’en opacifier l’intelligence : l’évidence de la « lumière naturelle » qu’est notre raison doit suffire à en comprendre le sens.
+---
+- Notion du programme : vérité
+- Auteur:Pascal
+- Idée :Dans "De l’esprit géométrique et de l’art de persuader", Pascal cherche à définir la manière de prouver une vérité que l’on possède. Prenant la géométrie comme modèle, il affirme que la « véritable méthode » consisterait « à définir tous les termes et à prouver toutes les propositions ». Mais cet idéal semble être impossible à appliquer dans la pratique.
+---
+- Notion du programme : vérité
+- Auteur:Spinoza
+- Idée :L’entendement, pour être apte à la connaissance de la plus haute perfection à laquelle l’homme doit parvenir, doit être réformé. Se pose alors un problème de méthode, l’entendement étant à la fois ce qui est à réformer et ce qui va déterminer les voies de la réforme. La recherche de la vérité n’est-elle pas compromise ?
+---
+- Notion du programme : vérité
+- Auteur:Leibniz
+- Idée :Descartes soutient dans son œuvre qu’un critère fiable de la vérité d’une proposition est son évidence, c’est-à- dire sa clarté et sa distinction intrinsèques. Ainsi pourraient être justifiées des propositions fondamentales, sur lesquelles d’autres propositions, moins évidentes, pourraient ensuite être étayées. Leibniz discute cette conception.
+---
+- Notion du programme : vérité
+- Auteur:Hume
+- Idée :Dans l’Enquête sur l’entendement humain, Hume soutient que les vérités qui concernent les faits ne peuvent ni être démontrées par le raisonnement ni s’appuyer sur une évidence intuitive ; elles reposent sur des associations d’idées opérées par l’imagination humaine, sous l’effet de l’habitude. Est- ce à dire que ces vérités se réduisent à des fictions sans consistance ?
+---
+- Notion du programme : vérité
+- Auteur:Rousseau
+- Idée :Dans la quatrième promenade des Rêveries du promeneur solitaire, Rousseau se livre à un examen de conscience : lui qui avait pour devise de consacrer sa vie à la vérité (« vitam impendere vero ») reconnaît s’être souvent livré à des « inventions », à des mensonges « de gaieté de cœur, sans nécessité, sans profit ». Que devons-nous à la vérité ?
+---
+- Notion du programme : vérité
+- Auteur:Kant
+- Idée :La vérité est souvent définie comme l’adéquation de la connaissance avec son objet. Kant, concédant cette définition, pose une question plus difficile : comment reconnaître une connaissance vraie, une fois la vérité définie comme adéquation ?
+---
+- Notion du programme : vérité
+- Auteur:Hegel
+- Idée :Les additions à l’Encyclopédie des sciences philosophiques sont issues des notes de cours des élèves de Hegel. S’y trouvent explicités, à des fins pédagogiques, des concepts centraux. Hegel propose une définition de la vérité qui ne subordonne pas la vérité d’une pensée à la réalité factuelle. La vérité serait alors l'accord d’un contenu avec lui?même.
+---
+- Notion du programme : vérité
+- Auteur:Tocqueville
+- Idée :Pour Tocqueville, la démocratie ne se réduit pas à un ensemble d’institutions politiques ; c’est avant tout un état social caractérisé par une égalité des conditions. Un tel état social exerce une influence sur les mœurs et les habitudes intellectuelles des individus, pouvant encourager l’exercice individuel de la raison. Est-ce à dire que les autorités sociales censées dire la vérité deviennent inutiles ?
+---
+- Notion du programme : vérité
+- Auteur:Nietzsche
+- Idée :Au lieu de se demander quels sont les critères de la vérité, Nietzsche s’interroge sur la « valeur de la vérité » pour la vie et sur l’origine de notre désir de connaissance. La perspective généalogique démasque alors, sous l’apparence d’une poursuite désintéressée de la vérité, une croyance qui dépasse le domaine restreint de la recherche scientifique.
+---
+- Notion du programme : vérité
+- Auteur:James
+- Idée :Une tradition classique définit la vérité comme l’accord, ou l’adéquation, entre le réel et sa représentation. Cette définition a pu être discutée, voire récusée. James en accepte l’essentiel, mais en nuance le concept ; en effet, les modes d’acquisition de la vérité, c’est-à- dire le dynamisme de l’enquête, ne sont-ils pas cruciaux pour qui veut en saisir la notion ?

@@ -1,0 +1,155 @@
+- Notion du programme : raison
+- Auteur:Épictète
+- Idée :Après une analyse consacrée au caractère illusoire du pouvoir tyrannique et à une description de l’attachement indu des hommes à de faux biens (Entretiens, I, xix), Épictète récapitule, dans le chapitre xx, le caractère réflexif de la raison humaine, source de toute sagesse.
+---
+- Notion du programme : raison
+- Auteur:Avicenne
+- Idée :Dans Le Livre de science, Avicenne examine les diverses facultés que sont la sensation, l’imagination et l’intellect. Si les deux premières sont communes aux hommes et aux animaux, la faculté intellectuelle est bien le propre de l’homme et consiste à considérer un objet de manière abstraite, indépendamment de ses particularités matérielles.
+---
+- Notion du programme : raison
+- Auteur:Thomas d\'Aquin
+- Idée :Suffit-il de bien raisonner pour bien agir ? Héritant de cette question posée par l’éthique d’Aristote, Thomas d’Aquin examine le pouvoir de la raison sur les passions. Pour bien agir, il est requis que non seulement la raison soit bien disposée par la manière d'être de la vertu intellectuelle, mais aussi que le désir humain le soit par la manière d'être de la vertu morale. Donc, de même que le désir humain se distingue de la raison, de même la vertu morale se distingue de la vertu intellectuelle.
+---
+- Notion du programme : raison
+- Auteur:Montaigne
+- Idée :L’« Apologie de Raymond Sebond » est l’occasion d’une mise à l’épreuve sceptique de la raison, que de nombreux philosophes tiennent pour la « contrôleuse générale de tout ce qui est au-dehors et au- dedans de la voûte céleste, qui embrasse tout et peut tout ». Que vaut cette prétention, face à l’irréductible différence et instabilité des choses qui composent notre monde, cette « branloire pérenne » ? Il n’y a aucune constante existence, ni de notre être, ni de celui des objets. Et nous, et notre jugement, et toutes choses mortelles vont coulant et roulant sans cesse. Ainsi il ne se peut établir rien de certain de l’un à l’autre, et le jugeant et le jugé étant en continuelle mutation et branle.
+---
+- Notion du programme : raison
+- Auteur:Descartes
+- Idée :Descartes écrit à Mersenne en 1639 que la raison est « un instinct » qui « est en nous en tant qu’hommes ». Cela implique- t-il toutefois que tous les hommes en fassent un égal usage ? La puissance de bien juger, et distinguer le vrai d’avec le faux, qui est proprement ce qu’on nomme le bon sens ou la raison, est naturellement égale en tous les hommes ; et ainsi la diversité de nos opinions ne vient pas de ce que les uns sont plus raisonnables que les autres, mais seulement de ce que nous conduisons nos pensées par diverses voies, et ne considérons pas les mêmes choses.
+---
+- Notion du programme : raison
+- Auteur:Pascal
+- Idée :« Deux excès. Exclure la raison, n’admettre que la raison. » Ce fragment des Pensées synthétise le rapport nuancé et critique de Pascal à la rationalité : sans renoncer à l’exercer, il en perçoit les limites et les expose. Il questionne la puissance – ou l’impuissance ? – de la raison face aux effets nombreux et vertigineux de l’imagination.
+---
+- Notion du programme : raison
+- Auteur:Malebranche
+- Idée :Malebranche définit l’attention comme une « prière naturelle » de l’esprit. Cette vigilance rationnelle s’exerce autant en direction du monde extérieur, dans les sciences, que vers une intériorité passée au crible par l’écoute de « la vérité intérieure, dans un plus grand silence des sens, de l’imagination et des passions ». Cette tension vers la raison suppose au préalable d’en dénoncer les mauvais usages.
+---
+- Notion du programme : raison
+- Auteur:Châtelet
+- Idée :Émilie du Châtelet a, par ses traductions, contribué à introduire la pensée de Newton en France. Lectrice de Leibniz et de Locke, elle récapitule, dans les premières pages de ses Institutions de physique, les principes fondamentaux sans lesquels aucune pensée rationnelle ni aucun discours cohérent ne pourraient se développer. Ainsi l’impossible est ce qui implique contradiction, et le possible ce qui ne l’implique point. Il faut bien prendre garde que cette définition ne nous induise pas à prendre des notions trompeuses pour des notions claires : car il arrive quelquefois que nous nous formons des idées trompeuses qui nous paraissent évidentes faute d’attention, et parce que nous avons une idée de chaque terme en particulier, quoiqu’il soit impossible d’en avoir aucune de la phrase qui naît de leur combinaison.
+---
+- Notion du programme : raison
+- Auteur:Hume
+- Idée :Contre une compréhension de la raison qui lui accorderait trop de pouvoir, Hume cherche à préciser la nature et la fonction de l’expérience, qui pallie, dans la vie théorique et pratique, les carences de la rationalité. Dans quelle mesure l’exercice de la pensée dépend-il des observations ? De causes qui paraissent semblables, nous attendons des effets semblables. Telle est la somme de toutes nos conclusions expérimentales (scientifiques). Or, il semble évident que si cette conclusion était formée par la raison uniquement, elle serait aussi parfaite. Mais le cas est bien différent. Rien de si semblable que des œufs ; cependant, personne n’attend, en raison de cette apparente ressemblance, le même goût et la même saveur pour chacun d’eux.
+---
+- Notion du programme : raison
+- Auteur:Kant
+- Idée :Après avoir montré qu’une volonté bonne est une volonté qui se soumet à l’impératif catégorique sans subir les contraintes de la sensibilité, Kant envisage, dans la troisième section des Fondements de la métaphysique des mœurs, le fondement de cette autonomie de la volonté : l’idée de la liberté, qui ne peut être attribuée qu’à un être raisonnable.
+---
+- Notion du programme : raison
+- Auteur:Kant
+- Idée :Selon Kant, le sens commun désigne « une faculté de juger qui dans sa réflexion tient compte, lorsqu’elle pense, du mode de représentation de tous les autres humains afin d’étayer son jugement, pour ainsi dire, de la raison humaine dans son entier ». Cette capacité d’anticiper le jugement virtuel d’autrui correspond à trois maximes, dont le respect définit l’autonomie intellectuelle.
+---
+- Notion du programme : raison
+- Auteur:Hegel
+- Idée :Si, comme il le note au paragraphe 447 de l’Encyclopédie des sciences philosophiques, un homme enfermé dans sa particularité se refuse à la « communauté de la rationalité », Hegel entend néanmoins montrer que de nombreuses réalités en apparence privées de rationalité – comme la sensation – n’en sont pas dépourvues.
+---
+- Notion du programme : raison
+- Auteur:Husserl
+- Idée :Rédigés à l’invitation d’une revue japonaise, les cinq articles réunis dans "Sur le renouveau" proposent une réflexion sur la faillite de la raison et de la culture européenne que fut la Première Guerre mondiale. Refusant deux solutions de facilité, l’irrationalisme et la simple reconduite de la tradition rationaliste, Husserl essaie de restaurer l’idéal originel de la rationalité.
+---
+- Notion du programme : raison
+- Auteur:Habermas
+- Idée :Une argumentation, une action, une personne peuvent être dites rationnelles. Qu’est-ce donc qui rend une forme de vie rationnelle ? L’œuvre de Jürgen Habermas se propose de répondre à cette question en rendant justice à l’importance de la communication dans la constitution de la rationalité. Ce qui est constitutif pour la rationalité de l’action, c’est le fait que l’acteur prévoit son action selon un plan qui implique la vérité d'une opinion, un plan en conséquence duquel l’objectif posé peut être réalisé dans des circonstances données.
+---
+- Notion du programme : raison
+- Auteur:Putnam
+- Idée :Dans le chapitre v de "Raison, vérité et histoire", Putnam discute une « conception critérielle » de la rationalité, qui identifie les conditions nécessaires et suffisantes de la rationalité. Toutefois, vouloir formaliser ce qui est rationnellement acceptable, n’est-ce pas méconnaître la dimension historique de la rationalité ?
+---
+- Notion du programme : raison
+- Auteur:Bouveresse
+- Idée :Si une attribution de la rationalité à un individu – « le » scientifique, par exemple – ou à un groupe – « les » scientifiques – est douteuse, faut-il pour autant en conclure que la rationalité n’est pas un concept fiable et qu’elle mériterait d’être rejetée ?
+---
+- Notion du programme : raison
+- Auteur:Aristote
+- Idée :La logique repose sur quelques principes fondamentaux
+---
+- Notion du programme : raison
+- Auteur:Nietzsche
+- Idée :Il faut prendre garde à ne pas confondre les exigences subjectives de notre raison et la réalité des choses. Ce n’est pas parce que nous avons besoin du principe de non-contradiction pour penser que le réel lui-même n’est pas contradictoire. La pensée logique ne reflète pas la forme du réel : elle lui impose celle-ci.
+---
+- Notion du programme : raison
+- Auteur:Descartes
+- Idée :Il vaut mieux ne jamais chercher la vérité que de le faire sans méthode
+---
+- Notion du programme : raison
+- Auteur:Descartes
+- Idée :Cette recherche d’une méthode absolument sûre et rationnelle est une nécessité quand il s’agit de chercher des vérités théoriques, mais elle n’est pas acceptable si l’on veut chercher des vérités en morale – parce qu’il faut bien vivre. Le temps de trouver celles-ci, il faut donc se contenter d’une « morale par provision » qui consiste à respecter les mœurs de son temps.
+---
+- Notion du programme : raison
+- Auteur:Kant
+- Idée :Il faut avoir le courage de se servir de son propre entendement
+---
+- Notion du programme : raison
+- Auteur:Habermas
+- Idée :On peut décrire l’ensemble des conditions qui permettent aux hommes d’échanger pacifiquement leurs opinions : ces principes éthiques constituent « l’éthique de la discussion », qui fonde la possibilité d’une action politique commune des hommes.
+---
+- Notion du programme : raison
+- Auteur:Malebranche
+- Idée :Il y a une raison universelle pour tous les hommes. Malebranche soutient ici que les hommes participent tous à une même raison universelle, qui explique que certaines vérités leur soient communes.
+---
+- Notion du programme : raison
+- Auteur:Montaigne
+- Idée :L homme est-il le seul être vivant doué de raison, ou bien est-ce une marque de sa présomption que de se croire tel ?
+---
+- Notion du programme : raison
+- Auteur:Descartes
+- Idée :Le bon sens est la chose du monde la mieux partagée. Tous les hommes possèdent à égalité la faculté de distinguer le vrai d avec le faux, mais ils se distinguent par la manière dont ils conduisent leur pensée.
+---
+- Notion du programme : raison
+- Auteur:Hobbes
+- Idée :Hobbes montre que ce n est pas parce que l homme a en lui la capacité de raisonner qu il s en sert effectivement au cours de sa vie.
+---
+- Notion du programme : raison
+- Auteur:Schopenhauer
+- Idée :La raison forme des concepts. Selon Schopenhauer, les manifestations de la raison dans la conduite humaine sont variées, mais elles dérivent toutes d un même acte premier, qui est de former des idées abstraites.
+---
+- Notion du programme : raison
+- Auteur:Aristote
+- Idée :Nos raisonnements se fondent sur certains principes communs, c est-à-dire sur certaines propositions qu il nous faut poser au préalable, comme les fondations d un édifice. Le premier principe est le principe de non-contradiction : c est le principe du raisonnement.
+---
+- Notion du programme : raison
+- Auteur:Blanché
+- Idée :La logique garantit la validité de notre raisonnement. Mais il ne faut pas confondre validité et vérité.
+---
+- Notion du programme : raison
+- Auteur:Descartes
+- Idée :Pour Descartes, le bon usage de notre raison passe par le fait de suivre une méthode. Il distingue quatre règles principales.
+---
+- Notion du programme : raison
+- Auteur:Leibniz
+- Idée :Selon Leibniz, c est un principe fondamental de notre raison que de supposer que tout a une raison d être.
+---
+- Notion du programme : raison
+- Auteur:Waismann
+- Idée :Peut-on réussir à expliquer la raison pour laquelle un homme a agi de telle ou telle manière ? Selon le mathématicien et physicien Friedrich Waismann, l interrogation sur les raisons ou motifs qui nous ont fait agir peut faire l objet d un approfondissement infini.
+---
+- Notion du programme : raison
+- Auteur:Pascal
+- Idée :La raison ne peut pas juger de tout. Selon Pascal, il existe en l homme certaines certitudes qui relèvent non de la raison, mais du coeur.
+---
+- Notion du programme : raison
+- Auteur:Kant
+- Idée :Notre raison a-t-elle certaines limites au-delà desquelles elle ne doit pas s aventurer ?
+---
+- Notion du programme : raison
+- Auteur:Condorcet
+- Idée :Les Lumières est un mouvement philosophique né au XVIIIe siècle qui considère que le progrès de la raison doit conduire à une amélioration générale de la condition humaine.
+---
+- Notion du programme : raison
+- Auteur:Kant
+- Idée :Kant définit l idéal des Lumières comme un état d autonomie de l entendement humain, qui s accompagne d un programme d affranchissement de l humanité à l égard de son état de tutelle.
+---
+- Notion du programme : raison
+- Auteur:Platon
+- Idée :Dans le Phédon, Platon raconte – ou imagine – les derniers instants de Socrate. Dans quelle mesure la mort est- elle à redouter ? Socrate justifie son espoir d’une immortalité de l’âme en se fondant sur les rapports qui s’établissent entre le corps et l’âme, au cours de l’existence. L’acte de raisonner ne peut- il, dans ce contexte, être compris comme le processus par lequel l’âme s’émancipe du corps ?
+---
+- Notion du programme : raison
+- Auteur:Weber
+- Idée :Le progrès du rationalisme dans la société moderne nous fait-il mieux comprendre le monde que nous habitons ? Ne conduit-il pas au contraire à nous le faire de moins en moins comprendre ?
+---
+- Notion du programme : raison
+- Auteur:Aristote
+- Idée :Dans le livre gamma de Métaphysique, Aristote se donne pour objet d’étude « l’être en tant qu’être » et non pas un genre d’êtres particuliers. Comme le philosophe ne sépare pas l’étude des principes premiers de l’être des principes fondamentaux de la pensée, il est amené à poser « le principe le plus sûr de tous », « le principe de tous les autres axiomes », celui qui serait au fondement, donc, de notre rationalité.

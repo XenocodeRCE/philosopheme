@@ -9,11 +9,12 @@
 ```
 Notion du programme : science. 
 Auteur : Popper. 
-Idée : Les énoncés scientifiques doivent pouvoir s exposer à la réfutation empirique. Popper cherche le critère qui permet de dire quand un énoncé portant sur des faits d expérience est un énoncé scientifique. Ce critère est la réfutabilité : le fait pour un énoncé, non pas d être réfuté par une expérience, mais de pouvoir l être. Dans un premier temps, démontrez l'idée.
+Idée : Les énoncés scientifiques doivent pouvoir s exposer à la réfutation empirique. Popper cherche le critère qui permet de dire quand un énoncé portant sur des faits d expérience est un énoncé scientifique. Ce critère est la réfutabilité : le fait pour un énoncé, non pas d être réfuté par une expérience, mais de pouvoir l être. Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et schématisée. Enfin trouvez un exemple concret. :
 
 Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et schématisée les significations :
 ```
 
 # 📝 Générer des mini-fiches automatiquement via l'API
+(prompt : ` Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et schématisée. Enfin trouvez un exemple concret. Démonstration :` )
 
-→ 
+→ https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerFiche.php

@@ -1,0 +1,147 @@
+- Notion du programme : relgion
+- Auteur:Freud
+- Idée :La religion est une névrose collective
+---
+- Notion du programme : religion
+- Auteur:Eliade
+- Idée :L une des caractéristiques essentielles de toute expérience religieuse est la démarcation entre le sacré et le profane. Le sacré renvoie à une dimension autre que la réalité naturelle – la transcendance – mais c est dans cette réalité naturelle que le sacré se manifeste.
+---
+- Notion du programme : religion
+- Auteur:Durkheim
+- Idée :Durkheim analyse l expérience religieuse comme un fait social. L expérience religieuse, faite de croyances et de pratiques, s inscrit nécessairement dans un phénomène collectif.
+---
+- Notion du programme : religion
+- Auteur:Rousseau
+- Idée :La religion naturelle consiste à trouver le sens singulier et personnel de la croyance en se fondant sur les facultés naturelles que sont le coeur et la raison. Pour Rousseau, les religions instituées sont autant de manières de nous éloigner d une expérience de la foi authentique. L homme est capable de saisir le divin en lui-même.
+---
+- Notion du programme : religion
+- Auteur:Freud
+- Idée :Les idées religieuses ont selon Freud une origine psychologique : la détresse et la vulnérabilité de la condition humaine rendent compte essentiellement du besoin de croyance religieuse.
+---
+- Notion du programme : religion
+- Auteur:Spinoza
+- Idée :Spinoza veut montrer qu un certain usage de la croyance religieuse, sur le mode de la superstition, est aussi bien contraire à la raison qu à la véritable foi : la superstition est une croyance irrationnelle.
+---
+- Notion du programme : religion
+- Auteur:Averroès
+- Idée :Pour Averroès, l homme, créé par Dieu, est un être doué de raison : il serait donc illogique que la religion nous demande de renoncer à notre faculté de penser. Dans cette perspective, la foi et la raison ne sauraient s opposer. Il n y a aucune concurrence entre la raison et la foi
+---
+- Notion du programme : religion
+- Auteur:Russell
+- Idée :Russel pose une distinction d essence radicale entre les croyances religieuses et les théories scientifiques. Tandis que les premières prétendent à l absolu et l éternel, les secondes au contraire ont un caractère provisoire et dynamique.
+---
+- Notion du programme : religion
+- Auteur:Bergson
+- Idée :Bergson montre que la religion détermine toujours une perspective morale, mais aussi que religion et morale peuvent avoir deux sources radicalement différentes. La première source réside dans la nécessité de ressouder les sociétés humaines fragilisées par les consciences individuelles. La seconde source réside dans une impulsion émotionnelle et originelle, qui se laisse inspirer par des figures exemplaires et qui oeuvre pour l humanité tout entière.
+---
+- Notion du programme : religion
+- Auteur:Shaftesbury
+- Idée :Shaftesbury nous met en garde contre l idée que tout homme pieux et religieux serait nécessairement irréprochable moralement. Selon lui, il faut distinguer soigneusement la morale et la religion.
+---
+- Notion du programme : religion
+- Auteur:Sartre
+- Idée :Sartre développe une philosophie athée. La conséquence en est simple et radicale : les valeurs morales ne peuvent provenir que de l homme lui-même.
+---
+- Notion du programme : religion
+- Auteur:Marx
+- Idée :La religion empêche toute révolte. Pour Marx, la religion a une fonction éminemment politique : elle empêche le peuple de prendre conscience des injustices du monde réel. En promettant le bonheur après la mort, elle empêche toute révolte.
+---
+- Notion du programme : religion
+- Auteur:Lévinas
+- Idée :Pour Lévinas, il n est pas certain que l intolérance religieuse soit un phénomène appartenant au passé. En effet, toute religion n est-elle pas par essence persuadée de détenir la vérité à l exclusion de tout autre ? N y a-t-il pas là le germe de l intolérance, de l exclusion, voire de la violence ?
+---
+- Notion du programme : religion
+- Auteur:Locke
+- Idée :Locke distingue deux sphères d autorité – celle de la religion et celle de l État – en posant clairement leurs limites respectives.
+---
+- Notion du programme : religion
+- Auteur:Ricoeur
+- Idée :Selon Ricoeur, il est essentiel de distinguer deux sens au concept de laïcité, celui de l État et celui de la société civile.
+---
+- Notion du programme : religion
+- Auteur:Platon
+- Idée :Euthyphron prétend connaître « ce qu’il en est du divin ». Interrogé par Socrate, le devin définit le pieux comme « ce que tous les dieux aiment » (9d). Mais faire des sentiments des dieux la norme de ce qui est pieux, n’est-ce pas promouvoir une conception arbitraire des principes religieux et de la morale ?
+---
+- Notion du programme : religion
+- Auteur:Lucrèce
+- Idée :Lucrèce se propose d’étudier l’origine de la religion romaine : celle-ci ne naît-elle pas d’un étonnement devant la régularité des phénomènes célestes ? N’est-elle pas la conséquence d’une ignorance des causes qui régissent la nature ?
+---
+- Notion du programme : religion
+- Auteur:Cicéron
+- Idée :Proposant d’abord une interprétation rationaliste et physique des noms de dieux, Cicéron, dans "De la nature des dieux", cherche ensuite à mettre en évidence l’absurdité des mythes et les excès de la superstition. Le véritable culte des dieux ne se caractérise-t-il pas par sa sobriété extérieure ?
+---
+- Notion du programme : religion
+- Auteur:Averroès
+- Idée :Le Discours décisif d’Averroès est une fatwâ, c’est-à- dire un avis juridique, qui soutient que l’interprétation du texte réputé sacré peut être une obligation pour qui en a la capacité rationnelle. Il s’agit donc de déterminer quelles sont les propositions du texte révélé dont l’interprétation est légalement obligatoire pour le philosophe.
+---
+- Notion du programme : religion
+- Auteur:Thomas d\'Aquin
+- Idée :Pour Thomas d’Aquin, la religion n’est pas une vertu « théologale » comme le sont l’espérance, la foi ou la charité. Celles-ci sont ordonnées à un objet qui dépasse la connaissance humaine. La religion, au contraire, est une vertu morale, en lien avec la justice et la vie sociale. C’est dans ce contexte que se pose la question de la possibilité d’un excès de religion.
+---
+- Notion du programme : religion
+- Auteur:Pascal
+- Idée :Les croyants, soutient Pascal dans les Pensées, ne peuvent « rendre raison de leur créance », mais « cela n’excuse pas ceux qui la reçoivent », dont on ne saurait exiger a priori qu’ils renoncent à toute raison. C’est donc dans la perspective d’une réception de la croyance qu’il convient d’examiner l’existence de Dieu.
+---
+- Notion du programme : religion
+- Auteur:Spinoza
+- Idée :Spinoza considère que les textes dits sacrés n’ont pas été écrits « pour les doctes, mais pour les hommes de tout âge et de toute condition ». Une telle position ouvre la possibilité d’une interprétation personnelle des dogmes religieux, dans le cadre d’une communauté politique.
+---
+- Notion du programme : religion
+- Auteur:Montesquieu
+- Idée :« Je n’examinerai donc les diverses religions du monde, que par rapport au bien que l’on en tire dans l’état civil », précise Montesquieu au début du chapitre de "De l’esprit des lois" consacré aux religions. C’est dans ce contexte politique, et non théologique, qu’il critique le jugement de Bayle sur les défauts respectifs de l’idolâtrie et de l’athéisme.
+---
+- Notion du programme : religion
+- Auteur:Feuerbach
+- Idée :Plutôt que d’affirmer, de suspendre ou de nier directement la croyance en Dieu, Feuerbach se propose de l’interpréter : quel est son objet véritable ? Par un mouvement dialectique, la notion de Dieu est ainsi à la fois reconnue et, parce que reconnue, récusée.
+---
+- Notion du programme : religion
+- Auteur:Kierkegaard
+- Idée :Pour l’intelligence, la foi ne peut prendre, selon Kierkegaard, que la figure du paradoxe. Si la croyance est motivée par une passion existentielle, l’intelligence demeure à jamais impuissante à la fonder. Dieu ne serait-il pas le lieu d’une différence infinie, différence pressentie mais à jamais inexplicable ?
+---
+- Notion du programme : religion
+- Auteur:Nietzsche
+- Idée :L’annonce retentissante du meurtre de Dieu est une provocation pour le croyant. Toutefois, ne s’agit-il pas autant, sous la plume de Nietzsche, de la mise en question d’un athéisme convenu, qui ne mesurerait pas à sa juste valeur le bouleversement qu’implique la fin proclamée d’une croyance collective majeure ?
+---
+- Notion du programme : religion
+- Auteur:Clifford
+- Idée :Dans un contexte où les avancées de la science mettent en question la rationalité de la foi, William Clifford promeut une éthique des croyances qui soumet leur légitimité aux éléments de preuve qui les fondent. Les croyances religieuses seraient-elles immorales ?
+---
+- Notion du programme : religion
+- Auteur:James
+- Idée :En 1876, Clifford, dans « l’Éthique de la croyance », avait soutenu que « si je m’abandonne à croire quoi que ce soit sur la base d’éléments de preuve insuffisants », alors « il est inévitable que je cause, en m’abandonnant à croire de cette façon, un grand tort à l’Homme, celui de m’être rendu crédule ». Vingt ans plus tard, dans « la Volonté de croire », James cherche à répondre à Clifford. La liberté de croire ne peut s’appliquer qu’à des options vivantes entre lesquelles l’intelligence de l’individu concerné ne peut trancher par elle?même ; et une option vivante ne paraît jamais absurde à celui qui l’envisage.
+---
+- Notion du programme : religion
+- Auteur:Durkheim
+- Idée :À partir de l’exemple du totémisme australien, Durkheim réfute l’idée que les premières conceptions religieuses trouvent leur origine dans « un sentiment de faiblesse et de dépendance, de crainte et d’angoisse ». Si la religion est irréductible à une illusion provoquée par l’angoisse devant l’inconnu, d’où lui vient donc sa force ? Par cela seul qu’elles ont pour fonction apparente de resserrer les liens qui attachent le fidèle à son dieu, du même coup elles resserrent réellement les liens qui unissent l’individu à la société dont il est membre, puisque le dieu n’est que l’expression figurée de la société.
+---
+- Notion du programme : religion
+- Auteur:Freud
+- Idée :« Les messages de notre fonds culturel qui pourraient avoir la plus grande signification pour nous » sont « ceux précisément dont l’accréditation est la plus faible de toutes », remarque Freud dans "L’Avenir d’une illusion". Et Freud s’interroge : comment expliquer le crédit des doctrines religieuses ?
+---
+- Notion du programme : religion
+- Auteur:Wittgenstein
+- Idée :Les convictions religieuses s’énoncent dans des discours. Mais quel est le sens des concepts, des propositions et des arguments qui y sont employés ? Wittgenstein, toujours sensible à la possibilité qu’une proposition soit dépourvue de sens, analyse le mode de signification des discours religieux afin de mettre au jour leur singularité.
+---
+- Notion du programme : religion
+- Auteur:Lévinas
+- Idée :Dans la prière se trouve, selon Levinas, un paradoxe qui prend l’allure d’un scandale. Quel est le sens de ce discours, prononcé depuis l’intimité vers une transcendance désirée ?
+---
+- Notion du programme : religion
+- Auteur:Averroès
+- Idée :La foi et la raison sont nécessairement compatibles
+---
+- Notion du programme : religion
+- Auteur:Averroès
+- Idée :Non seulement la foi et la raison sont compatibles, mais si l’exercice de la raison nous permet de mieux comprendre Dieu, il faut le considérer comme obligatoire pour un croyant... A condition que celui-ci soit effectivement capable de raisonner par lui-même sans s’y perdre !
+---
+- Notion du programme : religion
+- Auteur:Pascal
+- Idée :Nous avons toutes les raisons de parier sur l’existence de Dieu
+---
+- Notion du programme : religion
+- Auteur:Pascal
+- Idée :Une telle croyance rationnelle serait cependant inutile pour le salut. Par ailleurs, comment se forcer à croire ? Il faut faire comme on fait les autres croyants, se mettre à genoux et prier : c’est ainsi qu’on pourra « s’abêtir » et se rapporter à Dieu autrement qu’avec notre raison.
+---
+- Notion du programme : religion
+- Auteur:Marx
+- Idée :La religion ne doit pas être comprise comme un phénomène psychique individuel, mais comme enracinée dans la réalité sociale. La religion est une création de la souffrance du peuple, qui justifie celle-ci par la promesse du bonheur dans une vie future : elle est « l’opium du peuple ».

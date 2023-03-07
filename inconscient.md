@@ -1,0 +1,123 @@
+- Notion du programme : inconscient
+- Auteur:Nietzsche
+- Idée :La conscience n’est qu’un phénomène superficiel
+---
+- Notion du programme : inconscient
+- Auteur:Nietzsche
+- Idée :L’art n’est pas qu’une création de la raison et de l’intelligence humaine. Il implique toujours une dimension de folie, de laisser-aller, de débauche : une perte de contrôle qui permet précisément aux puissances du corps d’émerger dans ce qu’elles ont de créatif et de chaotique.
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée :L’inconscient est constitué de représentations refoulées
+---
+- Notion du programme : inconscient
+- Auteur:Erickson
+- Idée :Les « symptômes névrotiques » devraient plutôt être considérés comme des apprentissages devenus inutiles. L’inconscient est d’abord un système de construction d’automatismes. C’est sur ses ressources infinies qu’il faut se reposer pour changer nos comportements, non sur le processus intellectuel de compréhension, qui laisse encore trop de place à la pensée consciente.
+---
+- Notion du programme : inconscient
+- Auteur:Bourdieu
+- Idée :Nos façons de penser et d’agir sont profondément structurées par notre milieu social
+---
+- Notion du programme : inconscient
+- Auteur:Bourdieu
+- Idée :Nous ne sommes pas condamnés à avoir un rapport purement passif à notre habitus. La connaissance sociologique a pour effet de dévoiler la réalité des rapports sociaux ; elle permet de mieux saisir ce que la société a fait de nous, et éventuellement d’imaginer d’autres possibles.
+---
+- Notion du programme : inconscient
+- Auteur:Leibniz
+- Idée :Il est impossible d avoir une claire conscience de toutes les perceptions que nous avons en permanence. Les petites perceptions sont donc inconscientes, et pourtant elles produisent des effets en nous.
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée :Selon Freud, le psychisme – c est-à-dire l ensemble de notre intériorité – ne coïncide pas avec la conscience. Nous vivons dans l illusion d une complète transparence à nous-mêmes, alors que nous sommes traversés de représentations et de pulsions inconscientes.
+---
+- Notion du programme : inconscient
+- Auteur:Droit & Sperber
+- Idée :Les sciences cognitives – qui étudient le fonctionnement et les compétences du cerveau – font l hypothèse d un inconscient cognitif : nous n avons pas – ou très peu – conscience de tous les apprentissages complexes que notre cerveau élabore et active en permanence. Le sujet n a qu une vision partielle de lui-même.
+---
+- Notion du programme : inconscient
+- Auteur:Durkheim
+- Idée :La vie psychique ne se réduit pas à la conscience. Le sujet n a pas toujours conscience des raisons pour lesquelles il ressent certains affects ou pense certaines idées. Une partie de son activité psychique est inconsciente et pourtant agit sur lui.
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée :L hypothèse de l inconscient est nécessaire. L inconscient est une hypothèse nécessaire qui s inscrit dans une démarche résolument scientifique.
+---
+- Notion du programme : inconscient
+- Auteur:Sartre
+- Idée :L hypothèse de l inconscient est contradictoire. Sartre conteste absolument l hypothèse freudienne de l inconscient, qui est, selon lui, contradictoire : si c est la conscience qui effectue le refoulement, elle sait ce qu elle refoule. Il n y a donc pas d inconscient en l homme ; Sartre lui substitue le concept de mauvaise foi exprimant le mensonge que la conscience se fait à elle-même : lorsqu elle choisit sciemment d ignorer ce qui la dérange.
+---
+- Notion du programme : inconscient
+- Auteur:Leibniz
+- Idée :Dialogue entre Philalèthe et Théophile, les Nouveaux Essais, rédigés par Leibniz en 1704, sont une réponse directe à l’Essai sur l’entendement humain publié par Locke, en 1689. C’est l’occasion pour Leibniz d’exposer une théorie des connaissances infimes qui, par effet de seuil, échappent à la pleine conscience.
+---
+- Notion du programme : inconscient
+- Auteur:Popper
+- Idée :L hypothèse de l inconscient n est pas scientifique. La psychanalyse ne peut pas prétendre au rang de science car elle esquive par avance toute expérience qui la remettrait en cause. Or dans l optique de la psychanalyse, l expérience vient toujours vérifier la théorie : il est donc impossible de la contredire.
+---
+- Notion du programme : inconscient
+- Auteur:Kant
+- Idée :Le début de l’Anthropologie du point de vue pragmatique est consacré à l’examen de la conscience de soi, qui élève infiniment l’homme . En étudiant le retour réflexif de l’homme sur lui- même, Kant doit se confronter à la possibilité de représentations inconscientes.
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée :La nécessité de la morale contre les pulsions inconscientes. Selon Freud, l homme est naturellement un être agressif, en conflit avec ses congénères. Le rôle essentiel et difficile de la civilisation consiste à contenir cette agressivité primaire, notamment par des interdits moraux.
+---
+- Notion du programme : inconscient
+- Auteur:Schopenhauer
+- Idée : Pas plus qu’un corps ne peut entrer en mouvement sans cause, une pensée ne saurait entrer dans la conscience sans une occasion qui l’amène , énonce Schopenhauer au début du quatorzième supplément du Monde comme volonté et comme représentation. Comment expliquer alors les pensées qui nous semblent dépourvues de raison ?
+---
+- Notion du programme : inconscient
+- Auteur:Alain
+- Idée :L idée d inconscient déresponsabilise le sujet. Pour Alain, l hypothèse de l inconscient est inutile : le recours à la complexité du corps, des instincts, suffit amplement à expliquer l obscurité que la conscience éprouve souvent. Elle est de plus nuisible d un point de vue moral parce qu elle tend à déresponsabiliser le sujet.
+---
+- Notion du programme : inconscient
+- Auteur:Nietzsche
+- Idée :Le paragraphe 119 du deuxième livre d’Aurore est intitulé Vivre et imaginer . Nietzsche, analysant la vie des rêves, y esquisse une théorie de l’inconscient où notre corps jouerait le premier rôle.
+---
+- Notion du programme : inconscient
+- Auteur:Lévi-Strauss
+- Idée :L inconscient symbolique, créateur des mythes fondateurs : Toutes les formes de socialisation dépendent d une structure universelle inconsciente à partir de laquelle s élaborent les grands mythes et les symboliques propres à chaque culture. Le subconscient est défini ici comme la manière propre à chaque individu de s approprier ces mythes et ces symboles.
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée :Dans L’Interprétation du rêve, Freud s’élève contre ceux qui considèrent les récits de rêve comme des improvisations arbitraires concoctées dans l’embarras et propose de les envisager en tant que textes sacrés , c’est-à- dire des objets signifiants et doués d’une logique propre. Mais pourquoi cette logique n’apparaît-elle pas explicitement ?
+---
+- Notion du programme : inconscient
+- Auteur:Alquié
+- Idée :L artiste et l inconscient créateur. Ferdinand Alquié expose le projet du poète surréaliste André Breton sur l écriture automatique. Elle est l expression de l homme dans sa totalité, elle en révèle la vérité.
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée : Compression , déplacement , condensation : les métaphores mécaniques ou physiques abondent sous la plume freudienne pour caractériser, à partir de l’analyse du rêve, mais sans s’y réduire, le fonctionnement d’une pensée que Freud comprend comme inconsciente. Ainsi, la condensation serait déterminante dans la vie de l’esprit. La pluralité des interprétations n’en est-elle pas la conséquence nécessaire ?
+---
+- Notion du programme : inconscient
+- Auteur:Freud
+- Idée : Comment parvenir à la connaissance de l’inconscient ? : si connaître suppose d’avoir conscience de ce qu’on connaît, alors il semble impossible d’établir quelque chose comme un inconscient . Revenant en 1915 sur quelques malentendus suscités par son hypothèse de l’inconscient, Freud montre que celle-ci se justifie avant tout par le caractère lacunaire de la conscience.
+---
+- Notion du programme : inconscient
+- Auteur:Russell
+- Idée :Il y a un mystère du rêve. Relève- t-il d’une conscience atténuée ou d’un inconscient véritable ? Est- ce son aspect fragmentaire et discontinu qui lui confère sa part de mystère ? Dans le cadre d’une réflexion sur les croyances vraies et les croyances fausses, Russell précise ici la nature du problème théorique posé par l’étrangeté de l’expérience du rêve.
+---
+- Notion du programme : inconscient
+- Auteur:Bergson
+- Idée :Dans Matière et mémoire, Bergson critique la réduction de l’esprit à ce qui se présente à la conscience , en soulignant que cette présence peut comprendre des degrés. Cette thèse est prolongée, dans L’Énergie spirituelle, par l’étude des souvenirs que notre attention à l’action présente nous porte à négliger et qui ressurgissent à l’occasion du rêve.
+---
+- Notion du programme : inconscient
+- Auteur:Wittgenstein
+- Idée :Le travail critique de la notion de représentation, élaboré par Wittgenstein pendant les années 1930, conjoint à la distinction entre cause et raison, lui permet, lors de leçons données à Cambridge, de requalifier l’hypothèse freudienne, avec laquelle il discute de façon critique.
+---
+- Notion du programme : inconscient
+- Auteur:Sartre
+- Idée :Dans L’Être et le Néant, Sartre développe la notion de mauvaise foi : il s’agit d’une manière consciente de faire comme si l’on n’était pas conscient de quelque chose. Sartre propose alors de requalifier en mauvaise foi le refoulement tel qu’il était conçu par Freud, que Sartre estime impossible.
+---
+- Notion du programme : inconscient
+- Auteur:Simondon
+- Idée :La première relation de l’homme à la technique est pratique et non pas théorique. L’homme y développe des habiletés qui sont en grande partie soustraites à ses capacités de représentation, de verbalisation et de théorisation. Dès lors, ne faut- il pas étendre l’usage des termes inconscient et subconscient ?
+---
+- Notion du programme : inconscient
+- Auteur:Popper
+- Idée :Conjectures et réfutations est un ouvrage polémique qui se fonde sur la distinction entre théorie et pratique. Popper y rappelle, contre certains engouements, politiques ou intellectuels, que l’éventuelle valeur d’une pratique ne saurait suffire à fonder ses prétentions théoriques. Ainsi, la psychanalyse ne confère à ses théories aucune immunité contre la critique.
+---
+- Notion du programme : inconscient
+- Auteur:Bourdieu
+- Idée :Dans les Méditations pascaliennes, Bourdieu essaie de mettre au jour les présupposés propres aux pratiques des professeurs et des intellectuels. Une telle enquête se fonde sur l’hypothèse que la raison savante cache les révélations les plus inattendues sur ce que nous voulons le moins savoir de ce que nous sommes .

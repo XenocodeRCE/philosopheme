@@ -1,0 +1,139 @@
+- Notion du programme : technique
+- Auteur:Protagoras
+- Idée :La technique, un auxiliaire au dénuement naturel de l homme. Platon donne la parole à Protagoras, sophiste grec, pour raconter le mythe de Prométhée, récit fictif qui confère à l homme une place particulière parmi les animaux.
+---
+- Notion du programme : technique
+- Auteur:Aristote
+- Idée :Contrairement à ce qu affirme Protagoras dans sa version du mythe de Prométhée rapportée par Platon, Aristote montre que l homme n est pas le moins bien loti des animaux, bien au contraire : l intelligence humaine permet de développer les fonctions de la main, premier de tous nos outils.
+---
+- Notion du programme : technique
+- Auteur:Bergson
+- Idée :On pense généralement que l intelligence humaine trouve dans les sciences son expression la plus rigoureuse. Pour Bergson, cette forme d intelligence en suppose une autre, l habileté technique tournée vers la fabrication d outils. Ainsi, grâce au perfectionnement des techniques, l homme se modifie lui-même et modifie son rapport au monde.
+---
+- Notion du programme : technique
+- Auteur:Mauss
+- Idée :Pour Mauss, nos comportements physiques relèvent de techniques du corps dont la source est à la fois biologique et sociale. Elles sont une sorte d habitus, un ensemble de comportements acquis par l éducation et les normes sociales qui structurent et organisent notre manière de nous rapporter au monde et aux autres.
+---
+- Notion du programme : technique
+- Auteur:Vial
+- Idée :Les objets produits par la technique humaine, et a fortiori les appareils numériques, ne sont pas des objets anodins ; ils contribuent à des modifications très profondes en l homme qui ne concernent pas simplement son mode de vie.
+---
+- Notion du programme : technique
+- Auteur:Kant
+- Idée :La technique se distingue de la nature et de la science. Kant définit l art en général , c est-à-dire le savoir-faire technique, en le distinguant de la nature et de la science. Ce sens correspond à ce que les Anciens appelaient technè en grec ou ars en latin.
+---
+- Notion du programme : technique
+- Auteur:Descartes
+- Idée :À l opposé d une pensée purement théorique, Descartes veut promouvoir les connaissances pratiques, c est-à-dire utiles à la vie . Et c est par le développement des sciences physiques qu il espère l essor d applications concrètes, techniques et médicales notamment.
+---
+- Notion du programme : technique
+- Auteur:Heidegger
+- Idée :Selon Heidegger, les techniques traditionnelles s’inséraient sans les modifier dans des processus naturels, alors que les techniques modernes marquent une rupture. Elles remodèlent la nature afin de la soumettre aux intérêts humains et d’accumuler la plus grande quantité possible d énergie et de matières premières.
+---
+- Notion du programme : technique
+- Auteur:Simondon
+- Idée :Simondon conteste ici la définition classique de la technique comme artifice. L objet technique évolué a un mode d existence qui le rapproche de la nature.
+---
+- Notion du programme : technique
+- Auteur:Platon
+- Idée :Toute invention technique est-elle nécessairement un progrès ? Dans le Phèdre, Platon évoque le mythe de Theuth, une divinité à laquelle les Égyptiens attribuaient l invention de l écriture. C est en utilisant lui-même l écriture que Platon dégage l ambivalence de cette technique : il la présente comme un pharmakon, terme qui désigne, en grec, à la fois un remède et un poison.
+---
+- Notion du programme : technique
+- Auteur:Bacon
+- Idée :Les inventions techniques ont changé la face du monde. Alliées à la science, elles donnent à l homme un pouvoir inégalé sur l univers et sur lui-même.
+---
+- Notion du programme : technique
+- Auteur:Marx
+- Idée :Réfléchissant aux conséquences de la révolution industrielle sur le sort des travailleurs en usine, Marx met au jour une distinction centrale entre l outil et la machine : le premier exige du travailleur des compétences et un savoir-faire, la seconde ne requiert qu une force de travail mise à son service. Le machinisme rend le travail industriel aliénant : l ouvrier est asservi et dépossédé du produit de son travail.
+---
+- Notion du programme : technique
+- Auteur:Rosa
+- Idée :Nous pourrions penser que les technologies modernes favorisent la rapidité d exécution de certaines tâches. Mais force est de constater que les individus semblent souffrir d un manque de temps chronique.
+---
+- Notion du programme : technique
+- Auteur:Séris
+- Idée :Certains problèmes techniques (Comment effectuer une fécondation in vitro ? Comment prélever ou greffer un foie ou un coeur ?…) conduisent à des problèmes d ordre juridique, mais aussi d ordre moral. Les médecins, et finalement la société tout entière, se trouvent placés devant des responsabilités inédites. La notion de problème n a dès lors pas le même sens s il s agit de technique ou d éthique.
+---
+- Notion du programme : technique
+- Auteur:Aristote
+- Idée :Comment concevoir le rapport du corps humain aux dispositions techniques de l’homme ? Anaxagore, philosophe grec présocratique, n’a pas hésité à faire des mains l’origine de l’intelligence humaine. Aristote, qui raisonne à partir de la notion de finalité, propose une autre analyse. Anaxagore dit ainsi que c’est du fait qu’il a des mains que l’être humain est le plus intelligent des animaux, alors qu’il est rationnel que ce soit du fait qu’il est le plus intelligent qu’il soit pourvu de mains.
+---
+- Notion du programme : technique
+- Auteur:Bacon
+- Idée :Dans son œuvre, Bacon valorise les relations des objets techniques et des sciences. C’est par leur puissance d’altération de la nature et de constitution de notre monde que les objets techniques se révèlent à nous. Dès lors, question technique et interrogation éthique s’entrecroisent.
+---
+- Notion du programme : technique
+- Auteur:Pascal
+- Idée :Conscient des erreurs qui peuvent s’introduire dans le calcul arithmétique opéré par un être humain, Pascal propose une machine arithmétique « qui relève le défaut de la mémoire ». C’est l’occasion, pour le philosophe, de réfléchir aux rapports entre concepteur et exécutant, ainsi qu’entre théorie scientifique et application technique.
+---
+- Notion du programme : technique
+- Auteur:Comte
+- Idée :Dans son Cours de philosophie positive, Comte émet l’hypothèse d’une histoire de l’humanité caractérisée par des états successifs, peu à peu dépassés. Dans le contexte de développement technique et industriel propre au xixe siècle, la relation des « arts » – c’est-à-dire, sous la plume du penseur, des techniques – et des sciences devient un enjeu crucial.
+---
+- Notion du programme : technique
+- Auteur:Marx
+- Idée :La révolution industrielle se caractérise, au xixe siècle, par l’irruption de la machine-outil, qui rompt avec le travail artisanal. Marx, dans Le Capital, analyse cette irruption comme un moment stratégique, susceptible d’étayer son hypothèse d’une détermination de l’organisation du travail par un certain état des techniques.
+---
+- Notion du programme : technique
+- Auteur:Marx
+- Idée :Dans les Manuscrits de 1844, Marx caractérise l’aliénation de l’ouvrier, dans le monde industriel, par une triple privation : privation de la maîtrise de l’objet, privation des moyens de la production, privation de son propre corps. Dans Le Capital, en 1867, il reprend la question de la privation du corps, discutée à partir d’une distinction difficile à opérer entre organisme et mécanisme.
+---
+- Notion du programme : technique
+- Auteur:Bergson
+- Idée :Dans L’Évolution créatrice, Bergson cherche à distinguer l’intelligence de l’instinct. Le problème est qu’« intelligence et instinct, ayant commencé par s’interpénétrer, conservent quelque chose de leur origine commune ». C’est dans ce contexte théorique de distinction qu’une nécessaire revalorisation des arts mécaniques s’opère.
+---
+- Notion du programme : technique
+- Auteur:Bachelard
+- Idée :L’Essai sur la connaissance approchée est un éloge de l’approximation, entendue comme « objectivation prudente, féconde, [et] vraiment rationnelle puisqu’elle est à la fois consciente de son insuffisance et de son progrès ». L’ouvrage, issu de la thèse de doctorat de Bachelard, s’attache à revenir sur une assimilation trop rapide et fréquente entre sciences et techniques.
+---
+- Notion du programme : technique
+- Auteur:Weil
+- Idée :En 1934, Simone Weil entre comme manœuvre dans une usine ; il s’agit pour elle de faire l’expérience directe de la réalité concrète vécue par les ouvriers, afin de découvrir « les conditions réelles qui déterminent la liberté et la servitude des ouvriers ». L’une de ces conditions réelles, c’est la relation de l’ouvrier à la machine.
+---
+- Notion du programme : technique
+- Auteur:Canguilhem
+- Idée :Canguilhem, sensible à la singularité des phénomènes biologiques, entend, dans "La Connaissance de la vie", « inscrire le mécanique dans l’organique », « en considérant la technique comme un phénomène biologique universel ».
+---
+- Notion du programme : technique
+- Auteur:Lév-Strauss
+- Idée :Lévi-Strauss discute deux opinions : d’une part, les techniques caractérisant les sociétés réputées « premières » seraient qualitativement inférieures aux techniques des sociétés dites « avancées » ; d’autre part, l’accumulation heureuse d’un capital technique dans une société serait propre à une seule culture : la nôtre. Dans quelle mesure s’agit-il d’opinions préconçues ?
+---
+- Notion du programme : technique
+- Auteur:Heidegger
+- Idée :Pour Heidegger, « l’essence de la technique n’est rien de technique ». Il serait faux de réduire la technique à un simple instrument au service de l’homme : elle définit plutôt une certaine manière de se rapporter au monde, sur le mode de la « calculabilité ». En cela, la technique serait un mode du « dévoilement » de la nature.
+---
+- Notion du programme : technique
+- Auteur:Arendt
+- Idée :Dans "L’Humaine Condition," Hannah Arendt distingue « des articulations élémentaires de la condition humaine » : le travail, la fabrication, l’œuvre, l’action, la vie contemplative. La confusion de ces articulations serait « à l’origine de l’aliénation du monde moderne ». Ces concepts lui permettent ici de concevoir la spécificité du monde technologique dans lequel nous vivons.
+---
+- Notion du programme : technique
+- Auteur:Simondon
+- Idée :Évitant de réduire l’objet technique à sa fonction répétitive, et de faire de lui une simple application d’une théorie, Simondon propose de pénétrer à l’intérieur de l’objet, pour comprendre son fonctionnement interne et les causes de son évolution, qui procède « par convergence et adaptation à soi ».
+---
+- Notion du programme : technique
+- Auteur:Simondon
+- Idée :L’essence de l’objet technique implique la culture, dont il constitue un moment crucial et significatif ; ainsi, Simondon, refusant de ramener l’objet technique à son seul usage, l’inscrit dans une histoire qui permet d’en comprendre la nature.
+---
+- Notion du programme : technique
+- Auteur:Lév-Strauss
+- Idée :Le premier chapitre de "La Pensée sauvage" est intitulé « La science du concret ». Claude Lévi-Strauss repère, dans la pensée des sociétés dites primitives, parfois réduite à l’irrationalité, une méthode rationnelle de cartographie du monde, différente du raisonnement de la science moderne, mais non moins digne. Afin de saisir la distinction entre la science du concret et la science moderne, l’anthropologue propose une analogie entre la pensée sauvage et le bricolage.
+---
+- Notion du programme : technique
+- Auteur:Protagoras
+- Idée :En compensant la débilité naturelle de nos corps, la technique nous permet de survivre
+---
+- Notion du programme : technique
+- Auteur:Bergson
+- Idée :D’un point de vue évolutionniste, l’homme se définit d’abord non comme un homo sapiens (intelligent), mais plus spécifiquement comme un homo faber (fabriquant). L’intelligence humaine est d’abord une capacité à fabriquer des outils et à en varier indéfiniment la fabrication.
+---
+- Notion du programme : technique
+- Auteur:Heidegger
+- Idée :L’essence de la technique n’est rien de technique
+---
+- Notion du programme : technique
+- Auteur:Kant
+- Idée :Le déploiement de la technique moderne n’est donc pas sans poser des problèmes moraux. Kant rappelle en effet que l’impératif moral fondamental, c’est de toujours considérer l’être humain en même temps comme une fin, et jamais seulement comme un moyen. Le respect de la personne humaine doit limiter le pouvoir de l’État sur le citoyen ou du patron sur le travailleur, dans leur usage des techniques de contrôle et de surveillance.
+---
+- Notion du programme : tecnique
+- Auteur:Nietzsche
+- Idée :Le corps est cet ensemble de puissances ; il dépasse de très loin les puissances superficielles de la conscience. En particulier, le geste de l’artiste touche à l’inconscience – mais il faut voir que cette inconscience apparemment sans efforts est le résultat d’un travail et d’une attention constants.

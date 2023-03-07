@@ -21,11 +21,17 @@ Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et s
 → https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerFiche.php
 
 
+# 📃 Générer des QCM automatiquement via l'API
+→ prompt =
+`Tu es une IA experte en philosophie. Tu dois générer 10 QCM de niveau avancée, avec interprétation, à partir des informations importantes précédentes, et souligne la bonne réponse.`
+→ https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerQCM.php
+
+
 # 💡 Idées :
-- Générer des QCM
-- Générer des exercices :
-  - d'argumetation
-  - d'histoire de la phlo
-  - de texte à trous
-  - de formalisation en logique
-  - d'analyse des présupposés
+- [x] Générer des QCM
+- [ ] Générer des exercices :
+  - [ ] d'argumetation
+  - [ ] d'histoire de la phlo
+  - [ ] de texte à trous
+  - [ ] de formalisation en logique
+  - [ ] d'analyse des présupposés

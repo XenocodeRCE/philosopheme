@@ -1,0 +1,151 @@
+- Notion du programme : état
+- Auteur:Hobbes
+- Idée :Nous obéissons à l’État parce que c’est la condition de notre survie
+---
+- Notion du programme : état
+- Auteur:Rousseau
+- Idée :Aucun contrat ne saurait me demander de sacrifier ma liberté individuelle. si l’obéissance à l’État est légitime, c’est dans la mesure où celle-ci n’est pas incompatible avec le fait d’être libre. l’État légitime est donc celui qui gouverne d’après des lois qui expriment la volonté générale, une volonté purement rationnelle qui est en chacun.
+---
+- Notion du programme : état
+- Auteur:Marx
+- Idée :L’État est une superstructure qui protège les intérêts de la bourgeoisie
+---
+- Notion du programme : état
+- Auteur:Simone Weil
+- Idée :Marx pense que c’est par l’obéissance au parti qu’on arrivera à faire progresser l’humanité. Mais le parti, comme toute structure de pouvoir, a pour effet premier d’écraser l’individu qu’il domine, et donc de maintenir le problème qu’il promettait de résoudre. Il faut être plus radical, et refuser tout pouvoir, même celui du parti : il faut être anarchiste.
+---
+- Notion du programme : état
+- Auteur:Tocqueville
+- Idée :L’État n’est jamais aussi dangereux que lorsqu’il prétend nous rendre heureux
+---
+- Notion du programme : état
+- Auteur:Mill
+- Idée :La seule raison légitime pour laquelle l’État peut user de la force contre un citoyen, c’est pour l’empêcher de nuire à autrui. A chaque fois que l’État contraint un individu pour son propre bien, il outrepasse ses prérogatives.
+---
+- Notion du programme : état
+- Auteur:Aristote
+- Idée :L homme est par nature un animal politique. La cité – polis en grec – est naturelle à l homme selon Aristote, dans le sens où elle seule permet l accomplissement de sa nature propre. En effet, c est au sein de la cité que les hommes dialoguent ensemble afin d élaborer une communauté politique juste.
+---
+- Notion du programme : état
+- Auteur:Hobbes
+- Idée :L État assure la sécurité. Hobbes analyse les raisons pour lesquelles les hommes en viennent à s associer afin de créer l État.
+---
+- Notion du programme : état
+- Auteur:Platon
+- Idée :Après avoir esquissé les contours d’une cité idéale, modèle qui permet de distinguer le juste de l’injuste, Socrate en vient à l’examen critique de constitutions politiques déterminées, et notamment de la démocratie. La constitution de cette dernière n’est- elle pas insaisissable ?
+---
+- Notion du programme : état
+- Auteur:Rousseau
+- Idée :Selon Rousseau, il n est pas pensable de renoncer à sa liberté en se soumettant à l État. Il faut donc concevoir nn pacte social pour se protéger et être libre.
+---
+- Notion du programme : état
+- Auteur:Aristote
+- Idée :Dès l’Antiquité, on débat pour savoir si la vie commune a une origine naturelle ou conventionnelle. Les sophistes voient dans l’association politique le résultat d’un contrat. Aristote s’oppose à cette conception en argumentant en faveur de la naturalité de la cité.
+---
+- Notion du programme : état
+- Auteur:Weber
+- Idée :L État détient le monopole de la violence légitime. Weber définit l État contemporain comme un rapport de domination de l homme sur l homme par le monopole de la violence légitime.
+---
+- Notion du programme : état
+- Auteur:Machiavel
+- Idée : Un seigneur avisé ne peut tenir sa parole quand cela se retournerait contre lui , soutient Machiavel au chapitre xviii du Prince. Si la tâche propre du Prince est de conserver ses États, quelles vertus doit- il cultiver ?
+---
+- Notion du programme : état
+- Auteur:Spinoza
+- Idée :L État oeuvre pour la liberté. Pour Spinoza, l État ne peut avoir d autre fin, c est-à-dire d autre but, que la liberté. C est là le sens même de son institution.
+---
+- Notion du programme : état
+- Auteur:Machiavel
+- Idée :Dans les Discours, Machiavel cherche à identifier les conditions sous lesquelles les républiques peuvent se maintenir. Il propose une analogie entre la cité et le corps, s’inspirant de la théorie médicale de Galien, pour qui la santé consiste dans l’équilibre dynamique des humeurs du corps. Comment donc retrouver cet équilibre, toujours en péril ?
+---
+- Notion du programme : état
+- Auteur:Montesquieu
+- Idée :La séparation des pouvoirs, pour un État libre. Comment s assurer que l État aura bien pour fin la liberté ? La théorie de la séparation des pouvoirs, ou plus précisément de leur distribution, doit apporter les garanties nécessaires pour les citoyens.
+---
+- Notion du programme : état
+- Auteur:Hobbes
+- Idée :Selon Hobbes, l’individu, dans l’état de nature, se trouve dans une situation de crainte permanente, puisque rien n’empêche autrui de se servir de sa puissance comme il le souhaite. Si cette condition complique l’institution d’un État, elle rend aussi nécessaires des conventions mutuelles, par lesquelles les individus renoncent à leur droit naturel de s’administrer eux-mêmes.
+---
+- Notion du programme : état
+- Auteur:Tocqueville
+- Idée :Le doux despotisme tient les individus en servitude. Tocqueville, parti en Amérique afin d observer le fonctionnement d une démocratie naissante, nous met en garde contre les risques de doux despotisme pouvant menacer tout régime démocratique.
+---
+- Notion du programme : état
+- Auteur:Spinoza
+- Idée :Au début du chapitre xvi du Traité théologico- politique, Spinoza affirme que le Droit Naturel de chaque homme se définit non par la saine raison, mais par le désir et la puissance . Dès lors, l’obéissance raisonnée à un souverain, fût- ce dans un État démocratique, ne serait- elle pas contraire à la liberté ?
+---
+- Notion du programme : état
+- Auteur:Arendt
+- Idée :L État totalitaire destructeur de toutes libertés. Hannah Arendt distingue l État totalitaire – qui absorbe la totalité de la société civile – des autres formes politiques antérieures.
+---
+- Notion du programme : état
+- Auteur:Locke
+- Idée :Exilé à Amsterdam, fuyant les persécutions menées par Charles II contre les Whigs, qui soutenaient l’importance du parlement face à l’absolutisme royal, Locke rédige la Lettre sur la tolérance, dans laquelle il entreprend de séparer ce qui regarde le gouvernement et ce qui appartient à la religion .
+---
+- Notion du programme : état
+- Auteur:Platon
+- Idée :La politique doit reposer sur la connaissance du Bien et de la Justice. C est en ce sens qu elle constitue l objet d une véritable science. En toute logique, les véritables savants, que Platon nomme les philosophes-rois, seront les mieux placés pour gouverner : Le philosophe-roi doit gouverner
+---
+- Notion du programme : état
+- Auteur:Locke
+- Idée :Au paragraphe 159 du Second Traité du gouvernement, Locke indique qu’il y a bien des choses auxquelles les lois ne sauraient pourvoir par aucun moyen ; il faut donc abandonner [ces choses] à la discrétion de celui qui a en mains le pouvoir exécutif . Mais comment conjurer le risque d’un tel abandon ?
+---
+- Notion du programme : état
+- Auteur:Machiavel
+- Idée :La politique c est l art de gouverner. L enjeu pour l homme politique dans l exercice du pouvoir est l action. Ainsi le Prince doit-il, de manière pragmatique, savoir composer avec la fortune (Fortuna), c est-à-dire les circonstances extérieures particulières.
+---
+- Notion du programme : état
+- Auteur:Hume
+- Idée :Dans l’Enquête sur l’entendement humain, Hume définit une convention comme un certain sens de l’intérêt commun, dont chacun éprouve l’existence en soi et qu’il reconnaît chez autrui . En quoi ce sens partagé participe- t-il de l’harmonie politique et sociale ? C’est ce qu’analyse Hume dans une page du Traité de la nature humaine.
+---
+- Notion du programme : état
+- Auteur:Rancière
+- Idée :La démocratie est fondée sur le tirage au sort. Confier le pouvoir et l État à des experts et refuser par principe le tirage au sort, qui était essentiel à Athènes, n est-ce pas fondamentalement congédier la dimension populaire de la démocratie ? N est-ce pas une manière de se débarrasser du dèmos ?
+---
+- Notion du programme : état
+- Auteur:Locke
+- Idée :En 1689, dans Le Second Traité du gouvernement, Locke avait établi une distinction entre pouvoir législatif et pouvoir d’exécution des lois. En 1748, Montesquieu, lecteur de Locke, précise et affine cette répartition des pouvoirs.
+---
+- Notion du programme : état
+- Auteur:Machiavel
+- Idée :S affranchir des devoirs de la morale. Pour Machiavel, le réalisme politique suppose de s affranchir des devoirs de la morale. Agir moralement est une chose, gagner et conserver le pouvoir politique en est une autre.
+---
+- Notion du programme : état
+- Auteur:Rousseau
+- Idée :Le contrat social que décrit Rousseau passe par l’aliénation par chacun de son droit naturel, l’individu subordonnant sa personne et sa puissance sous la suprême direction de la volonté générale . Mais, paradoxalement, cette aliénation primordiale est la garantie de nos libertés.
+---
+- Notion du programme : état
+- Auteur:Weber
+- Idée :L éthique de conviction et l éthique de responsabilité. Weber distingue deux éthiques, l éthique de la conviction et l éthique de responsabilité. Selon lui, l éthique propre au politique est celle de la responsabilité.
+---
+- Notion du programme : état
+- Auteur:Kant
+- Idée :Le cosmopolitisme, redéfini par Kant au xviiie siècle, exige de concevoir la sagesse politique non plus comme une question interne, mais dans la perspective internationale des relations d’État à État. Comment s’articulent alors droit et morale ?
+---
+- Notion du programme : état
+- Auteur:Mill
+- Idée :Ne pas intervenir dans la vie privée des individus. Mill affirme dans ce texte l entière souveraineté de l individu sur lui-même. L État n a pas à intervenir dans la vie privée des gens, sauf en cas d actions pouvant nuire à autrui. Il ne doit pas chercher à nous rendre meilleurs.
+---
+- Notion du programme : état
+- Auteur:Tocqueville
+- Idée :En 1831, une mission parlementaire sur le système pénitentiaire en vigueur aux États- Unis fournit à Tocqueville l’occasion d’étudier une démocratie qui lui semble apaisée. J’avoue que dans l’Amérique j’ai vu plus que l’Amérique ; j’y ai cherché une image de la démocratie elle- même, de ses penchants, de son caractère, de ses préjugés, de ses passions , précise- t-il pour présenter son oeuvre.
+---
+- Notion du programme : état
+- Auteur:Weber
+- Idée : Partout le développement de l’État moderne a pris pour point de départ la volonté du prince d’exproprier les puissances “privées” indépendantes , énonce Weber lors d’une conférence sur le métier et la vocation d’homme politique, en 1919. Afin de dégager l’éthique propre à l’activité politique, le sociologue interroge alors la spécificité de l’organisation sociale qu’est l’État.
+---
+- Notion du programme : état
+- Auteur:Alain
+- Idée :Dès l’Antiquité, le régime de la foule – l’ochlocratie – est distingué du régime du peuple – la démocratie. L’ochlocratie serait une dégénérescence de la démo cratie. L’émergence de l’État moderne, au xviie siècle, modifie les enjeux de cette dis- tinction. L’État est- il garant de la raison contre l’éventuelle violence d’une foule ? Jusqu’à quel point ?
+---
+- Notion du programme : état
+- Auteur:Marx
+- Idée :Dans l’avant-propos de la Critique de l’économie politique, Marx décrit le processus par lequel des formes d’organisations sociales hier encore formes de développement des forces productives […] se changent en de lourdes entraves . Alors commence une ère de révolution sociale , ajoute le philosophe qui inspire l’analyse que Simone Weil propose ici du phénomène révolutionnaire.
+---
+- Notion du programme : état
+- Auteur:Arendt
+- Idée :Selon Hannah Arendt, nous ne sommes plus en mesure de savoir ce que l’autorité est réellement . Pour en ressaisir la définition, la philosophe procède à une analyse historique de l’autorité, en étudiant ses transformations, comprises comme une progressive dissolution.
+---
+- Notion du programme : état
+- Auteur:Foucault
+- Idée :De façon constante, Foucault refuse de réduire le pouvoir à un ensemble d’institutions et d’appareils qui garantissent la sujétion d’un individu dans un État donné . Le pouvoir n’est-il pas, en effet, moins lisible que les institutions qui en émergent ?

@@ -1,0 +1,143 @@
+- Notion du programme : liberté
+- Auteur:Calliclès
+- Idée :Pour vivre libre et heureux, il faut vivre de façon déréglée
+---
+- Notion du programme : liberté
+- Auteur:Kant
+- Idée :Se soumettre à son désir, c’est se soumettre à quelque chose d’extérieur à ma volonté (mon désir est pathologique, je le subis passivement comme constituant mon identité) : j’agis donc de façon hétéronome. La véritable liberté est autonomie : je dois me soumettre non à mon désir, mais à ma raison.
+---
+- Notion du programme : liberté
+- Auteur:Descartes
+- Idée :La liberté consiste à pouvoir agir de façon contingente
+---
+- Notion du programme : liberté
+- Auteur:Nietzsche
+- Idée :Le libre arbitre est un « tour de passe-passe théologique », qui exprime le besoin qu’ont les faibles à punir et à juger.
+---
+- Notion du programme : liberté
+- Auteur:Spinoza
+- Idée :Le libre arbitre est une illusion, la liberté est la connaissance des causes qui nous déterminent
+---
+- Notion du programme : liberté
+- Auteur:Kant
+- Idée :Le débat concernant l’existence du libre arbitre est en lui-même insoluble. Une « solution » est cependant possible si l’on distingue le plan du phénomène et le plan du noumène : nous ne pouvons connaître que des phénomènes, et donc la liberté elle-même (en tant qu’objet d’intuition intellectuelle) ne saurait être l’objet de la raison théorique. Son existence peut cependant être justifiée d’un point de vue pratique.
+---
+- Notion du programme : liberté
+- Auteur:Leibniz
+- Idée :Leibniz définit et distingue liberté de droit et liberté de fait, liberté de faire et liberté de vouloir.
+---
+- Notion du programme : liberté
+- Auteur:Arendt
+- Idée :La liberté est d abord politique. Hannah Arendt montre que la liberté politique, celle qui s exerce dans l espace public commun, est une condition nécessaire pour que l homme prenne conscience de sa liberté intérieure.
+---
+- Notion du programme : liberté
+- Auteur:Calliclès
+- Idée :L homme libre est celui qui satisfait tous ses désirs. Calliclès, disciple du sophiste Gorgias, expose à Socrate sa conception de ce qui est bon selon la nature : être libre, c est donner libre cours à ses désirs et ses passions. Les conventions morales et sociales qui brident la liberté sont une invention des faibles.
+---
+- Notion du programme : liberté
+- Auteur:Maïmonide
+- Idée :L homme fait librement le bien et le mal. Le libre arbitre a été donné aux hommes par Dieu comme un aspect essentiel de leur constitution. C est parce que les hommes sont libres qu ils se voient soumis aux lois divines et peuvent être tenus pour responsables de leurs actes.
+---
+- Notion du programme : liberté
+- Auteur:Kant
+- Idée :La reconnaissance de la force de l impératif moral (comme celui qui nous interdit de porter un faux témoignage) nous révèle le pouvoir que nous avons de résister à tous nos penchants, y compris le désir de vivre que nous concevons comme supérieur à tous les autres : tu dois donc tu peux.
+---
+- Notion du programme : liberté
+- Auteur:Rousseau
+- Idée :L indépendance, le pouvoir de faire ce qui nous plaît, n est pas une vraie liberté. Dans l état de nature comme dans l état de société, il n y a pas de liberté sans lois. Il n y a donc pas de liberté sans lois.
+---
+- Notion du programme : liberté
+- Auteur:Descartes
+- Idée :La liberté de la volonté (le libre arbitre) est ce qui nous distingue des machines et des automates. Nous n avons pas besoin de la prouver car nous en faisons une expérience immédiate et évidente.
+---
+- Notion du programme : liberté
+- Auteur:Spinoza
+- Idée :Les hommes ont conscience de leurs désirs mais le plus souvent sont ignorants des causes qui les déterminent. La liberté ne consiste pas dans la faculté de décider de manière arbitraire mais dans une libre nécessité , une nécessité comprise et assumée de l intérieur. L homme est ainsi d autant plus libre qu il comprend les déterminations dont il est l objet. Nous ignorons les causes qui nous déterminent.
+---
+- Notion du programme : liberté
+- Auteur:Nietzsche
+- Idée :Nietzsche présente le libre arbitre comme une invention des théologiens pour rendre les hommes coupables devant Dieu, et punissables par ceux qui se réclament de son autorité, les prêtres .
+---
+- Notion du programme : liberté
+- Auteur:Alain
+- Idée :Le fatalisme est une superstition naturelle, qui n est ni rationnelle, ni raisonnable, au lieu qu une juste compréhension des déterminismes — c est-à-dire de l enchaînement des causes et des effets — permet aux hommes de prédire et d agir.
+---
+- Notion du programme : liberté
+- Auteur:Épictète
+- Idée :Pour le sage stoïcien, il ne sert à rien de se révolter contre le destin, qui attribue à chacun son lot. Ce serait là la marque d un esprit faible, qui conçoit mal ce qui est réellement en son pouvoir et ce qui ne dépend pas de lui. Notre liberté consiste en l exercice de notre pouvoir sur ce qui dépend réellement de nous. On ne peut changer sa destinée.
+---
+- Notion du programme : liberté
+- Auteur:Aristote
+- Idée :C’est au moment où s’effondre la polis (cité) grecque sous la pression des grands royaumes macédoniens qu’Aristote écrit Les Politiques. Pour le philosophe, la cité offre les conditions idéales d’une vie autarcique , indépendante du besoin. Mais son organisation pose la question de la place du pouvoir et de sa distribution : le pouvoir est- il compatible avec l’exercice, par chaque citoyen, de la liberté ?
+---
+- Notion du programme : liberté
+- Auteur:Aristote
+- Idée :La distinction entre le volontaire et l’involontaire est fondamentale pour la réflexion éthique. D’elle dépendent en effet la sévérité de nos blâmes et la force de nos éloges. Mais est- elle toujours simple à opérer ?
+---
+- Notion du programme : liberté
+- Auteur:Locke
+- Idée :Nous voyons le meilleur et nous faisons le pire. Comme le montre l exemple de l ivrogne, incapable de résister à son désir de boisson, ce n est pas le fait de savoir ce qu est le plus grand bien qui nous détermine à agir, mais l état d inquiétude et de manque créé par le désir et l habitude.
+---
+- Notion du programme : liberté
+- Auteur:Épictète
+- Idée :Le Manuel d’Épictète a été compilé par un de ses disciples, Arrien, et constitue un guide pour l’apprenti qui progresse vers la sagesse. Celle- ci consiste à la fois dans une connaissance adéquate du monde et dans une manière de vivre vertueuse et libre. Comment faut- il donc concevoir le monde pour devenir libre ?
+---
+- Notion du programme : liberté
+- Auteur:Murdoch
+- Idée :La liberté, une tâche minuscule et continue. Notre liberté ne réside pas dans les moments de délibération et de choix, mais dans le processus continu et imperceptible par lequel nous apprenons à mieux voir les êtres et les situations qui nous entourent.
+---
+- Notion du programme : liberté
+- Auteur:Boétie
+- Idée : Cherchons donc à comprendre, si c’est possible, comment cette opiniâtre volonté de servir s’est enracinée si profond qu’on croirait que l’amour de la liberté n’est pas si naturel . Ainsi s’étonne La Boétie de la tendance humaine à la servitude.
+---
+- Notion du programme : liberté
+- Auteur:Sartre
+- Idée :Être libre, c est choisir qui l on est. Choisir, c est toujours se choisir. La liberté signifie qu il est toujours possible de se faire autre, de se choisir autre que l on est. C est en cela qu elle nous confronte à une forme d angoisse fondamentale.
+---
+- Notion du programme : liberté
+- Auteur:Descartes
+- Idée : Il n’y a que la seule volonté, que j’expérimente en moi être si grande, que je ne conçois point l’idée d’aucune autre plus ample et plus étendue , soutient Descartes dans la quatrième des six Méditations métaphysiques. Ce pouvoir de la volonté signifie- t-il que se déterminer sans être influencé est la forme la plus haute de liberté ?
+---
+- Notion du programme : liberté
+- Auteur:Spinoza
+- Idée :Dans l’introduction de la troisième partie de l’Éthique, Spinoza critique ceux qui conçoivent l’homme dans la nature comme un empire dans un empire . Son maître ouvrage n’a été publié qu’en 1677, l’année de sa mort. Mais les contemporains de Spinoza ont pu l’interroger de son vivant sur sa conception de la liberté.
+---
+- Notion du programme : liberté
+- Auteur:Leibniz
+- Idée : Il faut que le terme du sujet enferme toujours celui du prédicat , énonce Leibniz dans la huitième proposition du Discours de métaphysique. Ainsi les propriétés du triangle se déduisent- elles de la définition du triangle et les propriétés d’un corps de sa nature. Cette proposition logique implique-t-elle en dernier lieu une négation de la liberté ?
+---
+- Notion du programme : liberté
+- Auteur:Locke
+- Idée : Ceux qui veillent soigneusement sur leurs idées et dirigent leur pensée d’après l’évidence des choses plus que d’après le son des mots évitent bien des disputes, indique Locke au début du chapitre xxi du deuxième livre de l’Essai sur l’entendement humain. Les disputes sur la liberté sont- elles de ces questions vaines qui agitent un esprit incapable de s’arrêter quand il est arrivé en bout de laisse ?
+---
+- Notion du programme : liberté
+- Auteur:Rousseau
+- Idée : Pourquoi l’homme seul est- il sujet à devenir imbécile ? , demande Rousseau dans le Discours sur l’origine et les fondements de l’inégalité parmi les hommes. Les traits distinctifs de notre espèce révèlent- ils nos imperfections ou prouvent- ils notre liberté ?
+---
+- Notion du programme : liberté
+- Auteur:Rousseau
+- Idée : L’homme est né libre et partout il est dans les fers. Tel se croit le maître des autres qui ne laisse pas d’être plus esclave qu’eux , affirme Rousseau au chapitre i du Contrat social. L’ouvrage est une défense du caractère inaliénable de la liberté, qui passe par une mise en question de la légitimité de tout acte de subordination.
+---
+- Notion du programme : liberté
+- Auteur:Diderot
+- Idée :Dans Le Rêve de D’Alembert, à travers le dialogue entre Mlle de l’Espinasse, compagne de D’Alembert, et le docteur Bordeu, Diderot expose sa conception d’un monde matériel régi par la nécessité. Au détour d’un échange surgit la question de la liberté de nos actions.
+---
+- Notion du programme : liberté
+- Auteur:Kant
+- Idée :Au septième paragraphe de la Critique de la raison pratique, Kant soutient que la loi fondamentale de la raison pratique est : agis de telle sorte que la maxime de ta volonté puisse en même temps toujours valoir comme principe d’une législation universelle . Ce pouvoir de se donner à soi- même ses propres lois trouve son prolongement dans la distinction entre autonomie et hétéronomie.
+---
+- Notion du programme : liberté
+- Auteur:Tocqueville
+- Idée :Toute société démocratique est caractérisée par l’égalité de ses membres. Cette égalité aurait pour conséquence une indépendance croissante des individus les uns par rapport aux autres. Ce phénomène social n’engendre- t-il pas des conséquences politiques inquiétantes ?
+---
+- Notion du programme : liberté
+- Auteur:Mill
+- Idée :Dans De la liberté, Mill soutient que la liberté ne saurait être garantie, dans une société politique, sans la délimitation d’une sphère privée ; cela devrait permettre à chacun de choisir, dans les limites du droit d’autrui, la manière dont il veut conduire sa vie et développer ses facultés individuelles.
+---
+- Notion du programme : liberté
+- Auteur:Bergson
+- Idée :Méditation sur la relation du temps et de la subjectivité, l’Essai sur les données immédiates de la conscience est le premier ouvrage de Bergson. Au troisième chapitre, celui-ci aborde la question de l’acte libre. Comment décrire la liberté, en tenant compte de la temporalité essentielle à notre conscience ?
+---
+- Notion du programme : liberté
+- Auteur:Sartre
+- Idée :Dans la quatrième partie de L’Être et le Néant, Sartre soutient que l’homme est libre parce qu’il n’est pas soi mais présence à soi. L’être qui est ce qu’il est ne saurait être libre. La liberté, c’est précisément le néant qui est au coeur de l’homme . Et le philosophe de tirer cette conclusion : l’homme est tout entier et toujours libre ou il n’est pas . Comment concevoir dans ce cadre les obstacles rencontrés par l’homme ?

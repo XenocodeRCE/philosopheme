@@ -45,3 +45,8 @@ Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et s
   - [X] de formalisation en logique
   - [X] d'analyse des présupposés
 - [ ] Améliorer les prompts
+
+# 🐱‍🏍 Contributeurs : 
+<a href="https://github.com/XenocodeRCE/philosopheme/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XenocodeRCE/philosopheme" />
+</a>

@@ -23,15 +23,25 @@ Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et s
 
 # 📃 Générer des QCM automatiquement via l'API
 → prompt =
-`Tu es une IA experte en philosophie. Tu dois générer 10 QCM de niveau avancée, avec interprétation, à partir des informations importantes précédentes, et souligne la bonne réponse.`
+`Afin de vérifier si les élèves ont compris le point du cours d'aujourd'hui (auteur:$auteur idée:$idée), générer 10 QCM sur des implications logiques et philosophiques qui doivent à chaque fois être différente. Souligner là chaque fois la bonne réponse:`
 → https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerQCM.php
 
+# ✍ Générer des exercices
+→ https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerExercice.php
+
+• Comment le faire fonctionner ? Rajoutez « ?id= » puis l'option que vous désirez:
+- 1 = texte à trous
+- 2 = argumentation
+- 3 = logique et syllogisme
+- 4 = histoire de la philo
+- 5 = analyse des présupposé
 
 # 💡 Idées :
 - [x] Générer des QCM
-- [ ] Générer des exercices :
-  - [ ] d'argumetation
-  - [ ] d'histoire de la phlo
-  - [ ] de texte à trous
-  - [ ] de formalisation en logique
-  - [ ] d'analyse des présupposés
+- [X] Générer des exercices :
+  - [X] d'argumetation
+  - [X] d'histoire de la phlo
+  - [X] de texte à trous
+  - [X] de formalisation en logique
+  - [X] d'analyse des présupposés
+- [ ] Améliorer les prompts

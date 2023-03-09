@@ -18,15 +18,15 @@ export const scoreDisplay = false;
 
 export const activateFilters = false;
 
-export const textToSearchDefaultSmallScreen = "Art\\t";
+export const textToSearchDefaultSmallScreen = "Art";
 export const textToSearchDefault = "Art\\t";
 
 /* Pour réorganiser les données (notamment pour faire une version différente sur mobile) */
 export const reorganizeData = false;
-export const reorganizeDataIfSmallScreen = false;
+export const reorganizeDataIfSmallScreen = true;
 export function reorganizeDataFunction(arrInit) {
 	/* Un exemple qui ne garde que certaines colonnes */
-	return arrInit.map((element) => [element[0], element[1], element[4]]);
+	return arrInit.map((element) => ['<u>'+element[0]+'</u>' + '<br>'+ element[1], element[2]]);
 	/* Un exemple de regroupement */
 	/* return arrInit.map(element => [element[0],  element[2] + '<br/>' + element[1] + (element[3] ? element[3] : '')]);  */
 }
@@ -40,7 +40,7 @@ export const newHeader = [];
 
 /* Pour que certaines colonnes s'affichent en plus petit */
 export const smallColumns = [];
-export const smallColumnsIfSmallScreen = [];
+export const smallColumnsIfSmallScreen = [0,1];
 
 /* Surligner les mots recherchés */
 export const markText = true;

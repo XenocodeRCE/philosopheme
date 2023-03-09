@@ -212,7 +212,7 @@
 	</div>
 {/if}
 
-<table class:one-column={headersLength === 1} class={tableCSS}>
+<table class:one-column={headersLength === 1} class={tableCSS} class:largeScreen={innerWidth>800}>
 	{#if headers}
 		<thead>
 			<tr>
@@ -412,10 +412,10 @@
 	td input::placeholder {
 		color: #666;
 	}
-	td:not(.info-search):nth-child(1){
+	.largeScreen td:not(.info-search):nth-child(1){
 		text-decoration: underline;
 	}
-	td:not(.info-search):nth-child(2){
+	.largeScreen td:not(.info-search):nth-child(2){
 		font-weight: 700;
 	}
 

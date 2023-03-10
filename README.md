@@ -1,10 +1,10 @@
-# 📚 Philosopheme
+# 📚 Philosophème
 → Liste de 617 philosophèmes repris de certains manuels de philosophie et d'autres sources.
 
 → L'idée c'est de voir ce qu'on peut faire à partir de ça en utilisant ChatGPT 🤖...
 
 
-# 🤖 Générer des mini-fiches manuellement sur sur ChatGPT:
+# 🤖 Générer des minifiches manuellement avec ChatGPT:
 
 ```
 Notion du programme : science. 
@@ -14,7 +14,7 @@ Idée : Les énoncés scientifiques doivent pouvoir s exposer à la réfutation 
 Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et schématisée les significations :
 ```
 
-# 📝 Générer des mini-fiches automatiquement via l'API
+# 📝 Générer des minifiches automatiquement via l'API
 → prompt =
 `1) Développez et argumentez en faveur de l'idée de l'auteur. 2) Expliquez de façon ludique, pédagogique et schématique. 3) Trouvez un exemple concret, historique ou scientifique, qui illustre le problème. Réponses :`
 
@@ -29,18 +29,18 @@ Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et s
 # ✍ Générer des exercices
 → https://lacavernedeplaton.fr/api/g%C3%A9n%C3%A9rerExercice.php
 
-• Comment le faire fonctionner ? Rajoutez « ?id= » puis l'option que vous désirez:
+• Comment le faire fonctionner ? Rajoutez « ?id= » puis l'option que vous désirez :
 - 1 = texte à trous
 - 2 = argumentation
 - 3 = logique et syllogisme
 - 4 = histoire de la philo
-- 5 = analyse des présupposé
+- 5 = analyse des présupposés
 
 # 💡 Idées :
 - [x] Générer des QCM
 - [X] Générer des exercices :
-  - [X] d'argumetation
-  - [X] d'histoire de la phlo
+  - [X] d'argumentation
+  - [X] d'histoire de la philosophie
   - [X] de texte à trous
   - [X] de formalisation en logique
   - [X] d'analyse des présupposés
@@ -50,3 +50,5 @@ Dans un premier temps, démontrez l'idée. Puis expliquez de façon ludique et s
 <a href="https://github.com/XenocodeRCE/philosopheme/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=XenocodeRCE/philosopheme" />
 </a>
+=======
+
